@@ -1,17 +1,50 @@
 \documentclass{article}
 \usepackage[backend=biber]{biblatex}
 \usepackage{graphicx}
-
-\addbibresource{Relazione-Materiali/bibliography.bib}
+\usepackage[]{hyperref}
+\usepackage{booktabs}
+\addbibresource{bibliography.bib}
 
 \author{Anthony Steven Luna Gonzales, Roberto Giusto, Giulia Barbero}
-\title{Materiali per Aerospazio: Turbina ad alta temperatura}
+\title{Turbina ad alta temperatura}
 
 \begin{document}
     \maketitle
     \begin{center}
-        \includegraphics[width=\textwidth]{Sources/polito_logo.png}
+        \includegraphics[width=0.9\textwidth]{Sources/polito_logo.png}\linebreak\newline
+       \textbf{\textit{Materiali per applicazioni aerospaziali}}\linebreak\newline
+        \textit{Gruppo di lavoro n. xx}\linebreak\newline
+        \textit{Anno accademico 2020/2021}
     \end{center}
+
+    \newpage
+    \section{Introduzione}
+    \section{Funzioni, Obiettivi, Vincoli}
+        \begin{tabular}{l|r}
+            \toprule
+                \textbf{\textit{Funzione}}   & x\\
+                \textbf{\textit{Obiettivi}}   & y\\ 
+                \textbf{\textit{Vincoli}}   & z\\ 
+            \bottomrule
+        \end{tabular}   
+    \section{Selezione dei materiali}
+        \subsection{Stadio 1}
+        \subsection{Stadio 2}
+        \subsection{Stadio 3}
+        \dots
+        \subsection{Stadio N}
+    \section{Conclusioni}
+    \section{Esempio uso della bibliografia}
+    Questo é del testo. Voglio confermare che il politecnico di torino
+    é un'universitá di merda.\newline
+    Per avvalorare la mia tesi, devo fare riferimento ad altri studi condotti da ricercatori di altre
+    universitá, giusto per dire che non sto sparando cazzate, anche quando é
+    abbastanza evidente quello che voglio affermare.\newline
+    Ad esempio, posso dire che Gili é un professore inutile che
+    non ha voglia di fare un cazzo \autocite{ActaMaterialia_myst_fail}.\newline
+    Oppure posso tranquillamente affermare che Scavino deve morire 
+    malissimo \autocite{example}, ma devo metterci la citazione come potete vedere.
     
+    \printbibliography
     
-\end{document}\maketitle
+\end{document}
