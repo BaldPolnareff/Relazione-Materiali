@@ -1,0 +1,17 @@
+[0] Config.pm:312> INFO - This is Biber 2.15
+[0] Config.pm:315> INFO - Logfile is 'Relazione.blg'
+[49] biber:330> INFO - === Tue Nov 24, 2020, 18:43:44
+[64] Biber.pm:415> INFO - Reading 'Relazione.bcf'
+[105] Biber.pm:952> INFO - Found 4 citekeys in bib section 0
+[113] Biber.pm:4334> INFO - Processing section 0
+[120] Biber.pm:4523> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
+[120] bibtex.pm:1682> INFO - LaTeX decoding ...
+[130] bibtex.pm:1494> INFO - Found BibTeX data source 'bibliography.bib'
+[145] Utils.pm:384> WARN - ISBN '1563475383,9781563475382' in entry 'Aircr_engine_design' is invalid - run biber with '--validate_datamodel' for details.
+[165] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[165] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[165] Biber.pm:4162> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[165] Biber.pm:4168> INFO - No sort tailoring available for locale 'en-US'
+[168] bbl.pm:651> INFO - Writing 'Relazione.bbl' with encoding 'UTF-8'
+[169] bbl.pm:754> INFO - Output to Relazione.bbl
+[169] Biber.pm:128> INFO - WARNINGS: 1

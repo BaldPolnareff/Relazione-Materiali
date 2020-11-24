@@ -1,0 +1,118 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{SciencePubGroup}{article}{}
+      \name{author}{1}{}{%
+        {{hash=239eee5372b8dda9120269095ba62636}{%
+           family={Ikpe},
+           familyi={I\bibinitperiod},
+           given={Ikpe\bibnamedelimb Aniekan\bibnamedelimb Essienubong;\bibnamedelimb Owunna\bibnamedelimb Ikechukwu;\bibnamedelimb Patrick\bibnamedelimb O.\bibnamedelimi Ebunilo;\bibnamedelima Ememobong},
+           giveni={I\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{239eee5372b8dda9120269095ba62636}
+      \strng{fullhash}{239eee5372b8dda9120269095ba62636}
+      \strng{bibnamehash}{239eee5372b8dda9120269095ba62636}
+      \strng{authorbibnamehash}{239eee5372b8dda9120269095ba62636}
+      \strng{authornamehash}{239eee5372b8dda9120269095ba62636}
+      \strng{authorfullhash}{239eee5372b8dda9120269095ba62636}
+      \field{sortinit}{I}
+      \field{sortinithash}{9417e9a1288a9371e2691d999083ed39}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Mechanical and Industrial Engineering}
+      \field{title}{Material Selection for High Pressure (HP) Turbine Blade of Conventional Turbojet Engines}
+      \field{year}{2016}
+    \endentry
+    \entry{Aircr_engine_design}{book}{}
+      \name{author}{1}{}{%
+        {{hash=cebac7c918be2411e7aed974f686ac40}{%
+           family={Jack\bibnamedelimb D.\bibnamedelimi Mattingly},
+           familyi={J\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={David\bibnamedelimb T.\bibnamedelimi Pratt},
+           giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim P\bibinitperiod},
+           suffix={William\bibnamedelimb H.\bibnamedelimi Heiser},
+           suffixi={W\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {AIAA}%
+      }
+      \strng{namehash}{cebac7c918be2411e7aed974f686ac40}
+      \strng{fullhash}{cebac7c918be2411e7aed974f686ac40}
+      \strng{bibnamehash}{cebac7c918be2411e7aed974f686ac40}
+      \strng{authorbibnamehash}{cebac7c918be2411e7aed974f686ac40}
+      \strng{authornamehash}{cebac7c918be2411e7aed974f686ac40}
+      \strng{authorfullhash}{cebac7c918be2411e7aed974f686ac40}
+      \field{sortinit}{J}
+      \field{sortinithash}{c45040a764d616897e7f5b30174d7b92}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2nd}
+      \field{isbn}{1563475383,9781563475382}
+      \field{series}{American Institute of Aeronautics and Astronautics: AIAA Education Series}
+      \field{title}{Aircraft Engine Design, Second Edition (AIAA Education Series)}
+      \field{year}{2003}
+    \endentry
+    \entry{turbine_blade}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=995662dfa6d4e0e47b817bd05626e52e}{%
+           family={Stahlkocher},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{995662dfa6d4e0e47b817bd05626e52e}
+      \strng{fullhash}{995662dfa6d4e0e47b817bd05626e52e}
+      \strng{bibnamehash}{995662dfa6d4e0e47b817bd05626e52e}
+      \strng{authorbibnamehash}{995662dfa6d4e0e47b817bd05626e52e}
+      \strng{authornamehash}{995662dfa6d4e0e47b817bd05626e52e}
+      \strng{authorfullhash}{995662dfa6d4e0e47b817bd05626e52e}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://upload.wikimedia.org/wikipedia/commons/f/f9/Turbinenschaufel_RB199.jpg}}
+      \field{note}{Accessed on 2020-11-11}
+      \field{title}{Turbine Blade}
+    \endentry
+    \entry{turbojet}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=4266ae98bcc3e4d415f94d0bff7da6ea}{%
+           family={Tech},
+           familyi={T\bibinitperiod},
+           given={Aircraft\bibnamedelima Systems},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{4266ae98bcc3e4d415f94d0bff7da6ea}
+      \strng{fullhash}{4266ae98bcc3e4d415f94d0bff7da6ea}
+      \strng{bibnamehash}{4266ae98bcc3e4d415f94d0bff7da6ea}
+      \strng{authorbibnamehash}{4266ae98bcc3e4d415f94d0bff7da6ea}
+      \strng{authornamehash}{4266ae98bcc3e4d415f94d0bff7da6ea}
+      \strng{authorfullhash}{4266ae98bcc3e4d415f94d0bff7da6ea}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.aircraftsystemstech.com/p/gas-turbine-engines-types-and.html}}
+      \field{note}{Accessed on 2020-11-11}
+      \field{title}{Turbojet}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

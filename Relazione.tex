@@ -1,9 +1,22 @@
 \documentclass{article}
 \usepackage[backend=biber]{biblatex}
 \usepackage{graphicx}
-\usepackage[]{hyperref}
+\usepackage[colorlinks=true]{hyperref}
 \usepackage{booktabs}
+\usepackage{siunitx}
+\usepackage[]{amsmath}
+\usepackage{gensymb}
+\usepackage{mathtools}
+\usepackage{fancyref}
 \addbibresource{bibliography.bib}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+    pdftitle={Turbina ad alta temperatura},
+    bookmarks=true,
+}
 
 \author{Anthony Steven Luna Gonzales, \\Roberto Giusto, Giulia Barbero, Giorgio De Trane}
 \title{\textbf{Turbina ad alta temperatura}}
@@ -13,17 +26,20 @@
     \begin{center}
         \includegraphics[width=0.9\textwidth]{Sources/polito_logo.png}\linebreak\newline
        \textbf{\textit{Materiali per applicazioni aerospaziali}}\linebreak\newline
-        \textit{Gruppo di lavoro n. xx}\linebreak\newline
+        \textit{Gruppo di lavoro n. 10B}\linebreak\newline
         \textit{Anno accademico 2020/2021}
     \end{center}
 
     \newpage
-    \section{Introduzione}
+    \tableofcontents
+    \newpage
+    \section{Introduzione\label{Intro}}
     I turbomotori assiali aeronautici possono essere suddivisi, generalmente, in tre macrosezioni
     fondamentali: compressore, camera di combustione e turbina.\\
     \begin{center}
         \includegraphics[width=0.8\textwidth]{Sources/turbojet.png}\\
         \textit{Fig.1 }: Schema generale di un motore turbojet \autocite*{turbojet} 
+        \phantomsection \label{fig:turbojet_general}
     \end{center}
     Un \textit{inlet} favorisce l'afflusso di aria esterna al \textit{compressore}, il quale
     la comprime in un volume nettamente inferiore, attraverso vari stadi alternati di pale rotoriche-statoriche.\\
@@ -45,6 +61,7 @@
     \begin{center}
         \includegraphics[width=\textwidth]{Sources/Turbinenschaufel_RB199.jpg}
         \textit{Fig.2 }: Gli effetti dell'ambiente operativo estremo su una paletta di turbina \autocite*{turbine_blade}
+        \phantomsection \label{fig:paletta_logorata}
     \end{center}
     É necessario, dunque, scegliere un materiale (o una combinazione di piú materiali)
     in grado di sopportare, per il tempo di operativitá del componente, l'effetto
@@ -56,7 +73,7 @@
 
 
 
-    \section{Funzioni, obiettivi, vincoli}
+    \section{Funzioni, obiettivi, vincoli\label{funz_vinc_ob}}
         \begin{tabular}{l|r}
             \toprule
                 \textbf{\textit{Funzione}}   & x\\
@@ -64,14 +81,15 @@
                 \textbf{\textit{Vincoli}}    & z\\ 
             \bottomrule
         \end{tabular}   
-    \section{Selezione dei materiali}
+    \section{Selezione dei materiali\label{material_selection}}
         \subsection{Stadio 1}
         \subsection{Stadio 2}
         \subsection{Stadio 3}
         \dots
         \subsection{Stadio N}
-    \section{Conclusioni}
-    
+        \pagebreak
+    \section{Conclusioni\label{conclusioni}}
+    \pagebreak
     \printbibliography
     
 \end{document}
