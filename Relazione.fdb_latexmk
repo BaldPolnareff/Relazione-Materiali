@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber Relazione"] 1606239823 "Relazione.bcf" "Relazione.bbl" "Relazione" 1606242362
+["biber Relazione"] 1606929183 "Relazione.bcf" "Relazione.bbl" "Relazione" 1606929184
   "Relazione.bcf" 1606242331 101806 c67f6a1a9089a99514016770c80e7fcc "pdflatex"
-  "bibliography.bib" 1606162122 5099 4d3272aef668bef1e5018ed34c255630 ""
+  "bibliography.bib" 1606929183 5356 b80b347418e78e4ff501e1d0bfbbee1f ""
   (generated)
-  "Relazione.blg"
   "Relazione.bbl"
-["pdflatex"] 1606242330 "/home/giorgio/Relazione-Materiali/Relazione.tex" "/home/giorgio/Relazione-Materiali/Relazione.pdf" "Relazione" 1606242362
+  "Relazione.blg"
+["pdflatex"] 1606242330 "/home/giorgio/Relazione-Materiali/Relazione.tex" "/home/giorgio/Relazione-Materiali/Relazione.pdf" "Relazione" 1606929184
   "/etc/texmf/web2c/texmf.cnf" 1603623534 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/giorgio/Relazione-Materiali/Relazione.aux" 1606242331 2978 5c7720bb8799e2e8e1f523b0a25715cf ""
   "/home/giorgio/Relazione-Materiali/Relazione.tex" 1606242361 4550 6bf5431475954b763b6749877e85980f ""
@@ -125,7 +125,7 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1603639854 4873311 71a69169e8f25b40365ee00977a83dfd ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1603639867 2441887 744b34d3d0cbb41e8ba915b48fd813ae ""
   "Relazione.aux" 1606242331 2978 5c7720bb8799e2e8e1f523b0a25715cf "pdflatex"
-  "Relazione.bbl" 1606239824 5420 4827d80b4bbb11d1043a85a699028c91 "biber Relazione"
+  "Relazione.bbl" 1606929184 5420 4827d80b4bbb11d1043a85a699028c91 "biber Relazione"
   "Relazione.out" 1606242331 442 cdd2dd94f0722b17b290f05cb7efad83 "pdflatex"
   "Relazione.run.xml" 1606242331 2342 fdd720ce795ac3cc0ce6fceafe4ae2e0 "pdflatex"
   "Relazione.tex" 1606242361 4550 6bf5431475954b763b6749877e85980f ""
@@ -134,12 +134,12 @@
   "Sources/polito_logo.png" 1603750865 377670 f66c6788d4aff63346b10d18d75fb5b2 ""
   "Sources/turbojet.png" 1604937793 267762 cd46b37d63c71dd324d93100f1a59922 ""
   (generated)
-  "Relazione.bcf"
-  "Relazione.toc"
-  "Relazione.aux"
   "Relazione.log"
-  "Relazione.pdf"
   "Relazione.run.xml"
-  "/home/giorgio/Relazione-Materiali/Relazione.pdf"
-  "Relazione.out"
+  "Relazione.pdf"
+  "Relazione.aux"
   "/home/giorgio/Relazione-Materiali/Relazione.log"
+  "Relazione.bcf"
+  "Relazione.out"
+  "Relazione.toc"
+  "/home/giorgio/Relazione-Materiali/Relazione.pdf"
