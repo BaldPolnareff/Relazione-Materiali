@@ -70,6 +70,27 @@
       \field{title}{Aircraft Engine Design, Second Edition (AIAA Education Series)}
       \field{year}{2003}
     \endentry
+    \entry{Inkscape}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=b6376cab05e82f18f4779e535e95f621}{%
+           family={Project},
+           familyi={P\bibinitperiod},
+           given={The\bibnamedelima Inkscape},
+           giveni={T\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6376cab05e82f18f4779e535e95f621}
+      \strng{fullhash}{b6376cab05e82f18f4779e535e95f621}
+      \strng{bibnamehash}{b6376cab05e82f18f4779e535e95f621}
+      \strng{authorbibnamehash}{b6376cab05e82f18f4779e535e95f621}
+      \strng{authornamehash}{b6376cab05e82f18f4779e535e95f621}
+      \strng{authorfullhash}{b6376cab05e82f18f4779e535e95f621}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://inkscape.org/}}
+      \field{title}{Inkscape}
+    \endentry
     \entry{turbine_blade}{misc}{}
       \name{author}{1}{}{%
         {{hash=995662dfa6d4e0e47b817bd05626e52e}{%

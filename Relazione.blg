@@ -1,17 +1,17 @@
 [0] Config.pm:312> INFO - This is Biber 2.15
 [0] Config.pm:315> INFO - Logfile is 'Relazione.blg'
-[47] biber:330> INFO - === Wed Dec  2, 2020, 18:13:03
+[49] biber:330> INFO - === Sun Jan 10, 2021, 00:14:01
 [57] Biber.pm:415> INFO - Reading 'Relazione.bcf'
-[101] Biber.pm:952> INFO - Found 4 citekeys in bib section 0
-[110] Biber.pm:4334> INFO - Processing section 0
-[116] Biber.pm:4523> INFO - Looking for bibtex format file 'bibliography.bib' for section 0
-[117] bibtex.pm:1682> INFO - LaTeX decoding ...
-[127] bibtex.pm:1494> INFO - Found BibTeX data source 'bibliography.bib'
-[143] Utils.pm:384> WARN - ISBN '1563475383,9781563475382' in entry 'Aircr_engine_design' is invalid - run biber with '--validate_datamodel' for details.
-[164] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[165] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[165] Biber.pm:4162> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
-[165] Biber.pm:4168> INFO - No sort tailoring available for locale 'en-US'
-[169] bbl.pm:651> INFO - Writing 'Relazione.bbl' with encoding 'UTF-8'
-[171] bbl.pm:754> INFO - Output to Relazione.bbl
-[171] Biber.pm:128> INFO - WARNINGS: 1
+[100] Biber.pm:952> INFO - Found 5 citekeys in bib section 0
+[109] Biber.pm:4334> INFO - Processing section 0
+[115] Biber.pm:4523> INFO - Looking for bibtex format file '/home/giorgio/Bibliography/bibliography.bib' for section 0
+[116] bibtex.pm:1682> INFO - LaTeX decoding ...
+[136] bibtex.pm:1494> INFO - Found BibTeX data source '/home/giorgio/Bibliography/bibliography.bib'
+[152] Utils.pm:384> WARN - ISBN '1563475383,9781563475382' in entry 'Aircr_engine_design' is invalid - run biber with '--validate_datamodel' for details.
+[175] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[175] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[175] Biber.pm:4162> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'en-US'
+[175] Biber.pm:4168> INFO - No sort tailoring available for locale 'en-US'
+[179] bbl.pm:651> INFO - Writing 'Relazione.bbl' with encoding 'UTF-8'
+[181] bbl.pm:754> INFO - Output to Relazione.bbl
+[181] Biber.pm:128> INFO - WARNINGS: 1

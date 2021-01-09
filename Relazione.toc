@@ -3,8 +3,8 @@
 \contentsline {section}{\numberline {2}Funzioni, obiettivi, vincoli}{5}{section.2}%
 \contentsline {section}{\numberline {3}Selezione dei materiali}{6}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Stage 1}{6}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Stage 2}{6}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Stage 3}{6}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Stadio N}{6}{subsection.3.4}%
-\contentsline {section}{\numberline {4}Processo Produttivo}{7}{section.4}%
-\contentsline {section}{\numberline {5}Conclusioni}{8}{section.5}%
+\contentsline {subsection}{\numberline {3.2}Stage 2}{7}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Indici di merito}{8}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Stadio N}{11}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Processo Produttivo}{12}{section.4}%
+\contentsline {section}{\numberline {5}Conclusioni}{13}{section.5}%
