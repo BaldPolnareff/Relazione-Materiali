@@ -1,10 +1,19 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \contentsline {section}{\numberline {1}Introduzione}{3}{section.1}%
-\contentsline {section}{\numberline {2}Funzioni, obiettivi, vincoli}{5}{section.2}%
-\contentsline {section}{\numberline {3}Selezione dei materiali}{6}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Stage 1}{6}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Stage 2}{7}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Indici di merito}{8}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Stadio N}{11}{subsection.3.4}%
-\contentsline {section}{\numberline {4}Processo Produttivo}{12}{section.4}%
-\contentsline {section}{\numberline {5}Conclusioni}{13}{section.5}%
+\contentsline {section}{\numberline {2}Superleghe nei motori aeronautici}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Composizione delle superleghe di Nickel}{6}{subsection.2.1}%
+\contentsline {section}{\numberline {3}Processo Produttivo: Casting}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Solidificazione}{8}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Struttura}{9}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Zone fredde, colonnari e centrali}{9}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Affinamento dei grani}{10}{subsubsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.3}Difetti}{11}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Porositá e ritiro}{12}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Inclusioni}{13}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.3}Segregazione degli elementi di lega}{14}{subsubsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.4}Microfusione}{15}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Funzioni, obiettivi, vincoli}{16}{section.4}%
+\contentsline {section}{\numberline {5}Indici di merito}{17}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Stadio N}{20}{subsection.5.1}%
+\contentsline {section}{\numberline {6}Processo Produttivo}{21}{section.6}%
+\contentsline {section}{\numberline {7}Conclusioni}{22}{section.7}%

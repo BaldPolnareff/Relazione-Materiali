@@ -70,6 +70,30 @@
       \field{title}{Aircraft Engine Design, Second Edition (AIAA Education Series)}
       \field{year}{2003}
     \endentry
+    \entry{Mouritz}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f822690a6e7812dc348090666cf14b7f}{%
+           family={Mouritz},
+           familyi={M\bibinitperiod},
+           given={Adrian\bibnamedelima P.},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Woodhead Publishing in Materials}%
+      }
+      \strng{namehash}{f822690a6e7812dc348090666cf14b7f}
+      \strng{fullhash}{f822690a6e7812dc348090666cf14b7f}
+      \strng{bibnamehash}{f822690a6e7812dc348090666cf14b7f}
+      \strng{authorbibnamehash}{f822690a6e7812dc348090666cf14b7f}
+      \strng{authornamehash}{f822690a6e7812dc348090666cf14b7f}
+      \strng{authorfullhash}{f822690a6e7812dc348090666cf14b7f}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction to Aerospace Materials}
+      \field{year}{2012}
+    \endentry
     \entry{Inkscape}{misc}{}
       \name{author}{1}{}{%
         {{hash=b6376cab05e82f18f4779e535e95f621}{%

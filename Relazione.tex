@@ -19,14 +19,14 @@
     bookmarks=true,
 }
 
-\author{Anthony Steven Luna Gonzales, \\Roberto Giusto, Giulia Barbero, Giorgio De Trane}
+\author{Giorgio De Trane, \\Anthony Steven Luna Gonzales, \\Giulia Barbero, \\Roberto Giusto}
 \title{\textbf{Turbina ad alta temperatura}}
 
 \begin{document}
     \setlength{\parindent}{0pt}
     \maketitle
     \begin{center}
-        \includegraphics[width=0.9\textwidth]{Sources/polito_logo.png}\linebreak\newline
+        \includegraphics[width=0.8\textwidth]{Sources/polito_logo.png}\linebreak\newline
        \textbf{\textit{Materiali per applicazioni aerospaziali}}\linebreak\newline
         \textit{Gruppo di lavoro n. 10B}\linebreak\newline
         \textit{Anno accademico 2020/2021}
@@ -62,7 +62,7 @@
     forze centrifughe per velocitá di migliaia di RPM e intense vibrazioni, nonché problemi di corrosione
     e reazioni chimiche indesiderate, favorite oltretutto dall'alta temperatura.\\
 
-    \begin{figure}
+    \begin{figure}[h!]
         \centering
         \includegraphics[width=\textwidth]{Sources/Turbinenschaufel_RB199.jpg}
         \caption{Effetti dell'ambiente operativo estremo su una paletta di turbina \autocite*{turbine_blade}}
@@ -74,33 +74,117 @@
     simultaneo dell'elevatissima temperatura, dell'aggressivitá chimica e delle sollecitazioni meccaniche istantanee e cicliche,
     tenendo in considerazione, eventualmente, la possibilitá di un raffreddamento attivo.\\
 
-    \pagebreak
+    \clearpage
 
 
 
 
-    \section{Funzioni, obiettivi, vincoli\label{funz_vinc_ob}}
-        \begin{tabular}{l|r}
-            \toprule
-                \textbf{\textit{Funzione}}   & x\\
-                \textbf{\textit{Obiettivi}}  & y\\ 
-                \textbf{\textit{Vincoli}}    & z\\ 
-            \bottomrule
-        \end{tabular}   
-        \pagebreak
+    \section{Superleghe nei motori aeronautici\label{superleghe_mot_aer}}
+  
+    L'evoluzione esponenziale del settore aerospaziale e di tutte le discipline satelliti, 
+    nel corso degli ultimi decenni, vede sicuramente la scienza dei materiali 
+    tra i suoi driving factors.
+
+    Tra le infinite innovazioni, un ruolo essenziale é sicuramente giocato dalle \textit{superleghe}.
+
+    Tali leghe metalliche sono cosí definite poiché possono tipicamente raggiungere
+    una temperatura di esercizio pari a circa il 70-80 \% della propria temperatura di 
+    fusione, anche per periodi piuttosto prolungati, pur mantenendo eccezionali
+    proprietá meccaniche.
+    \\ 
+
+    In commercio sono disponibili una moltitudine di superleghe, tra cui quelle basate 
+    sul Nickel, sul Titanio, sul Cobalto e molte altre.
+    Viste le elevatissime temperature di esercizio delle palette di turbina HP, le
+    uniche superleghe, con cui al momento sono prodotte, sono proprio quelle a base di Nickel. 
+    
+    \begin{figure}[h!]
+        \centering
+        \phantomsection \label{turbofan_drawing}
+        \includegraphics[width=0.95 \textwidth]{Sources/engine_drawing.eps}
+        \caption{Materiali tipici in un motore turbofan \autocite{Inkscape}}
+    \end{figure}
+
+    Queste superleghe hanno portato innumerevoli benefici nell'efficienza operativa
+    complessiva dei moderni velivoli.
+
+    Ad esempio, all'aumentare del gradiente termico operativo, aumenta il rendimento del motore, 
+    con un impatto positivo sull'efficienza e sui costi complessivi.
+
+    Inoltre, l'elevata resistenza agli sforzi ciclici, a cui le palette sono 
+    continuamente sottoposte, consente una riduzione e semplificazione delle invasive operazioni
+    di manutenzione a terra, diminuendo quindi l'introduzione di errori umani e, allo stesso
+    tempo, garantendo al velivolo un maggior numero di missioni durante la propria vita operativa.
 
 
-    \pagebreak
 
 
-    \pagebreak
 
-    \section{Selezione dei materiali\label{material_selection}}
-        \subsection{Stage 1\label{Stage_1}}
+
+    \clearpage
+
+        \subsection{Composizione delle superleghe di Nickel\label{Nickel_composizione}}
+
+        Una peculiaritá delle superleghe di Nickel é l'elevata presenza di elementi alliganti, fino 
+        al 40-60 \%, in una matrice di Nickel \autocite{Mouritz}.
+
+        Sono tipicamente inseriti 
+
+    \clearpage
+
+
+    \section{Processo Produttivo: Casting\label{Casting}}
+
+
+    \clearpage
+
+        \subsection{Solidificazione\label{Casting_solid}}
+
+
+
         \clearpage
-        \subsection{Stage 2\label{Stage_2}}
+        \subsection{Struttura\label{Casting_strutt}}
+
+            \subsubsection{Zone fredde, colonnari e centrali\label{Casting_strutt_zone}}
+
+            \clearpage 
+
+            \subsubsection{Affinamento dei grani\label{Casting_strutt_affinamento}}
+
+
+            \clearpage
+
+
+        \subsection{Difetti\label{Casting_difetti}}
+
+
+        \clearpage 
+
+            \subsubsection{Porositá e ritiro\label{Casting_difetti_porosita}}
+
+            \clearpage 
+
+            \subsubsection{Inclusioni\label{Casting_difetti_inclusioni}}
+
+            \clearpage 
+
+            \subsubsection{Segregazione degli elementi di lega\label{Casting_difetti_segregazione}}
+    
+            \clearpage
+
+        \subsection{Microfusione\label{Casting_microfusione}}
+
+
+
         \clearpage
-        \subsection{Indici di merito\label{material_index}}
+
+    \section{Funzioni, obiettivi, vincoli\label{Funzioni_ob_vinc}}
+
+
+    \clearpage 
+
+
+    \section{Indici di merito\label{material_index}}
 
         Una buona strategia di analisi qualitativa per la selezione di materiali é rappresentata dalla valutazione di alcuni parametri frazionari, riferiti a una moltitudine di proprietá fisiche, chimiche, termiche, meccaniche, ecc, noti come indici di merito.
         
@@ -191,15 +275,15 @@
         \clearpage 
         \dots
         \subsection{Stadio N}
-        \pagebreak
+        \clearpage
 
     \section{Processo Produttivo\label{product_process}}
 
-    \pagebreak
+    \clearpage
 
     \section{Conclusioni\label{conclusioni}}
 
-    \pagebreak
+    \clearpage
 
     \printbibliography
     
