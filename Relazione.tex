@@ -126,26 +126,92 @@
         \subsection{Composizione delle superleghe di Nickel\label{Nickel_composizione}}
 
         Una peculiaritá delle superleghe di Nickel é l'elevata presenza di elementi alliganti, fino 
-        al 40-60 \%, in una matrice di Nickel \autocite{Mouritz}.
+        al 40-60\%, in una matrice di Nickel \autocite{Mouritz}. \\ 
 
-        Sono tipicamente inseriti 
+        Sono tipicamente inseriti Cromo (10-20\%),
+        Cobalto (5-15\%), Alluminio e Titanio (8\%, complessivamente), oltre
+        a piccole quantitá di elementi
+        come Molibdeno, Tungsteno e Carbonio. \\ \\ 
+
+      
+        \begin{table}[h!]
+            \centering
+            \resizebox{\textwidth}{!}{%
+            \begin{tabular}{@{}cl@{}}
+            \toprule
+            \multicolumn{1}{l}{\textbf{Elemento}} & \textbf{Funzione}                                               \\ \midrule
+            Cromo                                 & Rafforzamento per soluzione solida e resistenza alla corrosione \\
+            Molibdeno                             & Rafforzamento per soluzione solida e resistenza al creep        \\
+            Tungsteno                             & Rafforzamento per soluzione solida e resistenza al creep        \\
+            Cobalto                               & Rafforzamento per soluzione solida                              \\
+            Niobio                                & Indurimento da precipitati e resistenza al creep                \\
+            Alluminio                             & Indurimento da precipitati e resistenza al creep                \\
+            Carbonio                              & Tempra al carburo e resistenza al creep                         \\ \bottomrule
+            \end{tabular}%
+            }
+            \caption{Funzione degli elementi alliganti \autocite{Mouritz}}
+            \label{tab:funz_alliganti}
+            \end{table}
+            
 
     \clearpage
 
 
     \section{Processo Produttivo: Casting\label{Casting}}
 
+    Negli ultimi anni, la manufattura additiva ha iniziato a soppiantare svariati 
+    processi piú tradizionali, in primis nel settore aerospaziale. 
+
+    In particolare, la capacitá di produrre geometrie complesse e non ottenibili
+    con lavorazioni sottrattive, ha reso la manufattura additiva di notevole interesse 
+    nella produzione di palette, in cui sono presenti svergolature studiate ad hoc, 
+    oltre alla frequente necessitá di renderle cave per un eventuale raffreddamento attivo.
+
+    Tipicamente, per le palette in superleghe di Nickel, si utilizza la manufattura additiva
+    a letto di polvere con \textit{EBM} (Electron Beam Melting). \\ 
+
+    Tuttavia, per seguire il workflow proposto dal database di \textit{Granta}, si é optato
+    per un altro processo produttivo piú tradizionale, il \textit{casting} (in particolare
+    il casting in forma). 
+
+    Tra i metodi tradizionali, questa tecnica produttiva, che consiste nella solidificazione di metallo fuso
+    in uno stampo dalla geometria prossima a quella desiderata, é l'unica adatta alla produzione di parti 
+    in superleghe di Nickel ad alte prestazioni. 
+
+    Altri processi quali ad esempio il casting in lingotti, con successiva forgiatura o estrusione, se applicati a queste superleghe,
+    portano troppo spesso a cricche e danni irreversibili durante la lavorazione \autocite{Mouritz}.
+
+    Inoltre, seppur non al livello della manufattura additiva, il casting in forma consente comunque un minor spreco 
+    di materiale, dato che le operazioni di natura strettamente sottrattiva sono limitate ad un'inevitabile
+    rifinitura del componente estratto dallo stampo. 
+
+    \begin{figure}[h!]
+        \centering
+        \phantomsection \label{low_press_mold}
+        \includegraphics[width=0.45\textwidth]{Sources/pressurized_mold.eps}
+        \caption{Schema di un casting in low-pressure permanent mold \autocite{Inkscape}}
+    \end{figure}
+
+    
 
     \clearpage
 
         \subsection{Solidificazione\label{Casting_solid}}
 
+        
 
 
         \clearpage
         \subsection{Struttura\label{Casting_strutt}}
 
             \subsubsection{Zone fredde, colonnari e centrali\label{Casting_strutt_zone}}
+
+            \begin{figure}[h!]
+                \centering
+                \phantomsection \label{grain_casting}
+                \includegraphics[width=\textwidth]{Sources/grain.eps}
+                \caption{Grani di un lingotto raffreddato \autocite{Inkscape}}
+            \end{figure}
 
             \clearpage 
 
@@ -243,7 +309,7 @@
         Manipolando l'equazione con le caratteristiche della paletta precedentemente
         elencate, si ottiene una massa $m \propto \left(\frac{\rho}{K_{1c}}\right) $.
 
-        Alla luce di quanto detto, si definisce il relativo indice di merito, da massimizzare:
+        Alla luce di quanto detto, si definisce il relativo indice di merito, da massimizzare \autocite{SciencePubGroup}:
 
         \begin{equation}
             i_{K} = \left (\frac{K_{1c}}{\rho}\right)

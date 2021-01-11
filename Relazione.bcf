@@ -2188,7 +2188,12 @@
     <bcf:citekey order="4">turbine_blade</bcf:citekey>
     <bcf:citekey order="5">Inkscape</bcf:citekey>
     <bcf:citekey order="6">Mouritz</bcf:citekey>
-    <bcf:citekey order="7">Inkscape</bcf:citekey>
+    <bcf:citekey order="7">Mouritz</bcf:citekey>
+    <bcf:citekey order="8">Mouritz</bcf:citekey>
+    <bcf:citekey order="9">Inkscape</bcf:citekey>
+    <bcf:citekey order="10">Inkscape</bcf:citekey>
+    <bcf:citekey order="11">Inkscape</bcf:citekey>
+    <bcf:citekey order="12">SciencePubGroup</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

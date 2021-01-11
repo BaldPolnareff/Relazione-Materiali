@@ -1,0 +1,1065 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="pressurized_mold.svg">
+  <defs
+     id="defs2">
+    <rect
+       x="14.647819"
+       y="249.65202"
+       width="50.772336"
+       height="23.554758"
+       id="rect4499" />
+    <rect
+       x="138.56233"
+       y="63.264388"
+       width="54.223481"
+       height="19.897814"
+       id="rect3047" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect3034"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,1.0583333,0,1 @ F,0,0,1,0,1.0583333,0,1 @ F,0,0,1,0,1.0583333,0,1 @ F,0,0,1,0,1.0583333,0,1 @ F,0,0,1,0,1.0583333,0,1 @ F,0,0,1,0,1.0583333,0,1 @ F,0,0,1,0,1.0583333,0,1 @ F,0,0,1,0,1.0583333,0,1 @ F,0,0,1,0,1.0583333,0,1 @ F,0,0,1,0,1.0583333,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="4"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect3013"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,1.3229167,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1.3229167,0,1 @ F,0,0,1,0,1.3229167,0,1 @ F,0,1,1,0,1.3229167,0,1 @ F,0,1,1,0,1.3229167,0,1 @ F,0,0,1,0,1.3229167,0,1 @ F,0,0,1,0,1.3229167,0,1 @ F,0,0,1,0,1.3229167,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="5"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="true"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect3002"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,1.3229167,0,1 @ F,0,0,1,0,1.3229167,0,1 @ F,0,0,1,0,1.3229167,0,1 @ F,0,0,1,0,1.3229167,0,1 @ F,0,0,1,0,1.3229167,0,1 @ F,0,0,1,0,1.3229167,0,1 @ F,0,0,1,0,1.3229167,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="5"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="true"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="lattice2"
+       gridpoint0="38.870586,162.11336"
+       gridpoint1="106.11004,162.11336"
+       gridpoint2="38.870586,215.70428"
+       gridpoint3="106.11004,215.70428"
+       gridpoint4="55.647432,161.46085"
+       gridpoint5="97.870686,161.91373"
+       gridpoint6="55.68045,215.70428"
+       gridpoint7="89.300179,215.70428"
+       gridpoint8x9="73.702386,159.16098"
+       gridpoint10x11="72.490314,215.70428"
+       gridpoint12="38.870586,175.51109"
+       gridpoint13="106.11004,175.51109"
+       gridpoint14="38.870586,202.30655"
+       gridpoint15="106.11004,202.30655"
+       gridpoint16="55.68045,175.51109"
+       gridpoint17="89.300179,175.51109"
+       gridpoint18="55.68045,202.30655"
+       gridpoint19="89.300179,202.30655"
+       gridpoint20x21="72.490314,175.51109"
+       gridpoint22x23="72.490314,202.30655"
+       gridpoint24x26="38.870586,188.90882"
+       gridpoint25x27="106.11004,188.90882"
+       gridpoint28x30="55.68045,188.90882"
+       gridpoint29x31="89.300179,188.90882"
+       gridpoint32x33x34x35="72.490314,188.90882"
+       id="path-effect2998"
+       is_visible="true"
+       lpeversion="1"
+       horizontal_mirror="false"
+       vertical_mirror="false"
+       perimetral="false"
+       live_update="true" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2978">
+      <stop
+         style="stop-color:#eb1616;stop-opacity:0.63017845"
+         offset="0"
+         id="stop2974" />
+      <stop
+         style="stop-color:#eb4607;stop-opacity:0.21960784"
+         offset="0.65328526"
+         id="stop2990" />
+      <stop
+         style="stop-color:#00ff00;stop-opacity:0.12312522"
+         offset="1"
+         id="stop2976" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2927"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,1.3229167,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1.3229167,0,1 @ F,0,0,1,0,1.3229167,0,1 @ F,0,1,1,0,1.3229167,0,1 @ F,0,1,1,0,1.3229167,0,1 @ F,0,0,1,0,1.3229167,0,1 @ F,0,0,1,0,1.3229167,0,1 @ F,0,0,1,0,1.3229167,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="5"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="true"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2923"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,1.3229167,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1.3229167,0,1 @ F,0,0,1,0,1.3229167,0,1 @ F,0,1,1,0,1.3229167,0,1 @ F,0,1,1,0,1.3229167,0,1 @ F,0,0,1,0,1.3229167,0,1 @ F,0,0,1,0,1.3229167,0,1 @ F,0,0,1,0,1.3229167,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="5"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="true"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2905"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,1.3229167,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1.3229167,0,1 @ F,0,0,1,0,1.3229167,0,1 @ F,0,1,1,0,1.3229167,0,1 @ F,0,1,1,0,1.3229167,0,1 @ F,0,0,1,0,1.3229167,0,1 @ F,0,0,1,0,1.3229167,0,1 @ F,0,0,1,0,1.3229167,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="5"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="true"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2901"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,1.3229167,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,1.3229167,0,1 @ F,0,0,1,0,1.3229167,0,1 @ F,0,1,1,0,1.3229167,0,1 @ F,0,1,1,0,1.3229167,0,1 @ F,0,0,1,0,1.3229167,0,1 @ F,0,0,1,0,1.3229167,0,1 @ F,0,0,1,0,1.3229167,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="5"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="true"
+       hide_knots="false" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient859">
+      <stop
+         style="stop-color:#d3b52c;stop-opacity:0.79544973"
+         offset="0"
+         id="stop855" />
+      <stop
+         style="stop-color:#ff2000;stop-opacity:0.56078434"
+         offset="1"
+         id="stop857" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient859"
+       id="linearGradient863"
+       x1="73.110283"
+       y1="215.79153"
+       x2="73.110283"
+       y2="161.8387"
+       gradientUnits="userSpaceOnUse" />
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient2822"
+       gradientUnits="userSpaceOnUse"
+       x="30.683886"
+       y="151.8091">
+      <meshrow
+         id="meshrow2824">
+        <meshpatch
+           id="meshpatch2826">
+          <stop
+             path="c 27.8423,0  55.6847,0  83.527,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop2828" />
+          <stop
+             path="c 0,23.8798  0,47.7596  0,71.6394"
+             style="stop-color:#333333;stop-opacity:1"
+             id="stop2830" />
+          <stop
+             path="c -27.8423,0  -55.6847,0  -83.527,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop2832" />
+          <stop
+             path="c 0,-23.8798  0,-47.7596  0,-71.6394"
+             style="stop-color:#333333;stop-opacity:1"
+             id="stop2834" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient2879"
+       gradientUnits="userSpaceOnUse"
+       x="28.564043"
+       y="99.487892">
+      <meshrow
+         id="meshrow2881">
+        <meshpatch
+           id="meshpatch2883">
+          <stop
+             path="c 12.659,0  25.3181,0  37.9771,0"
+             style="stop-color:#94866c;stop-opacity:1"
+             id="stop2885" />
+          <stop
+             path="c 0,10.5846  0,21.1692  0,31.7537"
+             style="stop-color:#7d6b32;stop-opacity:1"
+             id="stop2887" />
+          <stop
+             path="c -12.659,0  -25.3181,0  -37.9771,0"
+             style="stop-color:#554c31;stop-opacity:1"
+             id="stop2889" />
+          <stop
+             path="c 0,-10.5846  0,-21.1692  0,-31.7537"
+             style="stop-color:#554c31;stop-opacity:1"
+             id="stop2891" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient2907"
+       gradientUnits="userSpaceOnUse"
+       x="28.564043"
+       y="99.487892"
+       gradientTransform="matrix(-1,0,0,1,144.14235,-1.8e-4)">
+      <meshrow
+         id="meshrow2919">
+        <meshpatch
+           id="meshpatch2917">
+          <stop
+             path="c 12.659,0  25.3181,0  37.9771,0"
+             style="stop-color:#94866c;stop-opacity:1"
+             id="stop2909" />
+          <stop
+             path="c 0,10.5846  0,21.1692  0,31.7537"
+             style="stop-color:#7d6b32;stop-opacity:1"
+             id="stop2911" />
+          <stop
+             path="c -12.659,0  -25.3181,0  -37.9771,0"
+             style="stop-color:#554c31;stop-opacity:1"
+             id="stop2913" />
+          <stop
+             path="c 0,-10.5846  0,-21.1692  0,-31.7537"
+             style="stop-color:#554c31;stop-opacity:1"
+             id="stop2915" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient2929"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="rotate(180,72.071175,99.487802)"
+       x="28.564043"
+       y="99.487892">
+      <meshrow
+         id="meshrow2941">
+        <meshpatch
+           id="meshpatch2939">
+          <stop
+             path="c 12.659,0  25.3181,0  37.9771,0"
+             style="stop-color:#94866c;stop-opacity:1"
+             id="stop2931" />
+          <stop
+             path="c 0,10.5846  0,21.1692  0,31.7537"
+             style="stop-color:#7d6b32;stop-opacity:1"
+             id="stop2933" />
+          <stop
+             path="c -12.659,0  -25.3181,0  -37.9771,0"
+             style="stop-color:#554c31;stop-opacity:1"
+             id="stop2935" />
+          <stop
+             path="c 0,-10.5846  0,-21.1692  0,-31.7537"
+             style="stop-color:#554c31;stop-opacity:1"
+             id="stop2937" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2978"
+       id="linearGradient2986"
+       gradientUnits="userSpaceOnUse"
+       x1="99.385971"
+       y1="673.99133"
+       x2="537.84436"
+       y2="673.99133" />
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient3015"
+       gradientUnits="userSpaceOnUse"
+       x="28.564043"
+       y="99.487892"
+       gradientTransform="matrix(1,0,0,-1,0,198.97579)">
+      <meshrow
+         id="meshrow3027">
+        <meshpatch
+           id="meshpatch3025">
+          <stop
+             path="c 12.659,0  25.3181,0  37.9771,0"
+             style="stop-color:#94866c;stop-opacity:1"
+             id="stop3017" />
+          <stop
+             path="c 0,10.5846  0,21.1692  0,31.7537"
+             style="stop-color:#7d6b32;stop-opacity:1"
+             id="stop3019" />
+          <stop
+             path="c -12.659,0  -25.3181,0  -37.9771,0"
+             style="stop-color:#554c31;stop-opacity:1"
+             id="stop3021" />
+          <stop
+             path="c 0,-10.5846  0,-21.1692  0,-31.7537"
+             style="stop-color:#554c31;stop-opacity:1"
+             id="stop3023" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter4361">
+      <feFlood
+         flood-opacity="0.517647"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4351" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4353" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.83535"
+         result="blur"
+         id="feGaussianBlur4355" />
+      <feOffset
+         dx="2.43728"
+         dy="-0.48281"
+         result="offset"
+         id="feOffset4357" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4359" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter4401">
+      <feFlood
+         flood-opacity="0.517647"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4391" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4393" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.83535"
+         result="blur"
+         id="feGaussianBlur4395" />
+      <feOffset
+         dx="2.43728"
+         dy="-0.48281"
+         result="offset"
+         id="feOffset4397" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4399" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter4419">
+      <feFlood
+         flood-opacity="0.517647"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4409" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4411" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.83535"
+         result="blur"
+         id="feGaussianBlur4413" />
+      <feOffset
+         dx="2.43728"
+         dy="-0.48281"
+         result="offset"
+         id="feOffset4415" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4417" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter4435">
+      <feFlood
+         flood-opacity="0.517647"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4425" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4427" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.83535"
+         result="blur"
+         id="feGaussianBlur4429" />
+      <feOffset
+         dx="2.43728"
+         dy="-0.48281"
+         result="offset"
+         id="feOffset4431" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4433" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter4451">
+      <feFlood
+         flood-opacity="0.517647"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4441" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4443" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.83535"
+         result="blur"
+         id="feGaussianBlur4445" />
+      <feOffset
+         dx="2.43728"
+         dy="-0.48281"
+         result="offset"
+         id="feOffset4447" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4449" />
+    </filter>
+    <rect
+       x="14.647819"
+       y="249.65202"
+       width="88.10048"
+       height="48.78093"
+       id="rect4507" />
+    <rect
+       x="14.647819"
+       y="249.65202"
+       width="88.10048"
+       height="48.78093"
+       id="rect4513" />
+    <rect
+       x="14.647819"
+       y="249.65202"
+       width="88.10048"
+       height="48.78093"
+       id="rect4519" />
+    <rect
+       x="14.647819"
+       y="249.65202"
+       width="88.10048"
+       height="48.78093"
+       id="rect4525" />
+    <rect
+       x="14.647819"
+       y="249.65202"
+       width="88.10048"
+       height="48.78093"
+       id="rect4531" />
+    <rect
+       x="14.647819"
+       y="249.65202"
+       width="88.10048"
+       height="48.78093"
+       id="rect4537" />
+    <rect
+       x="14.647819"
+       y="249.65202"
+       width="88.10048"
+       height="48.78093"
+       id="rect4543" />
+    <rect
+       x="14.647819"
+       y="249.65202"
+       width="88.10048"
+       height="48.78093"
+       id="rect4549" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="354.54775"
+     inkscape:cy="386.61081"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:window-width="3808"
+     inkscape:window-height="2064"
+     inkscape:window-x="16"
+     inkscape:window-y="43"
+     inkscape:window-maximized="0"
+     inkscape:snap-midpoints="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4662"
+       transform="matrix(1.1282244,0,0,1.1282244,-16.530088,-19.754398)">
+      <g
+         id="g4493">
+        <g
+           id="g4133"
+           style="filter:url(#filter4361)">
+          <path
+             id="rect2848"
+             style="opacity:1;fill:#333333;fill-opacity:0.560784;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000"
+             d="m 447.12891,523.58398 v 123.63086 h 36.60351 V 523.58398 Z m 0,172.03516 v 0.0586 h 36.60351 v -0.0586 z"
+             transform="scale(0.26458333)" />
+          <path
+             id="rect2836"
+             style="opacity:1;fill:#333333;fill-opacity:0.560784;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000"
+             d="m 63.267578,524.16406 v 320.01953 h -0.07031 v 35.38282 H 483.74609 V 844.18359 695.67773 H 447.12891 V 844.18359 H 99.601562 V 524.16406 Z"
+             transform="scale(0.26458333)" />
+        </g>
+        <g
+           id="g4389"
+           style="filter:url(#filter4401)">
+          <rect
+             style="opacity:1;fill:#1a1a1a;fill-opacity:0.560784;stroke:#000000;stroke-width:0.373286;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000"
+             id="rect2855"
+             width="46.016514"
+             height="6.752758"
+             x="15.400971"
+             y="131.61649" />
+          <rect
+             style="opacity:1;fill:#1a1a1a;fill-opacity:0.560784;stroke:#000000;stroke-width:0.374173;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000"
+             id="rect2857"
+             width="46.235573"
+             height="6.752758"
+             x="82.762413"
+             y="131.61649" />
+        </g>
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.396875;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000"
+           id="rect2996"
+           width="9.084959"
+           height="17.645651"
+           x="138.24481"
+           y="169.94649" />
+        <g
+           id="g4468">
+          <path
+             id="rect2963"
+             style="opacity:1;fill:url(#linearGradient2986);fill-opacity:1;stroke:#000000;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000"
+             d="M 99.601562,523.67578 V 845.0293 H 447.12891 V 695.61914 h 76.19336 v -47.60156 h -76.19336 v -124.3418 z"
+             transform="scale(0.26458333)" />
+          <path
+             style="fill:url(#meshgradient2822);fill-opacity:1;stroke:#000000;stroke-width:0.396875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 38.313733,151.98425 h -7.629848 v 71.4642 h 83.526985 v -71.63936 h -7.24933 v 64.57384 H 38.019087 Z"
+             id="path851" />
+          <path
+             style="opacity:1;fill:url(#linearGradient863);fill-opacity:1;stroke:#000000;stroke-width:0.387071;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000"
+             id="rect853"
+             width="67.239456"
+             height="53.590919"
+             x="38.870586"
+             y="162.11336"
+             inkscape:path-effect="#path-effect2998;#path-effect3002"
+             d="m 40.191729,162.04551 c 5.254108,-0.33059 12.507349,-1.43671 20.282927,-2.27993 0.726023,-0.0787 1.904018,-0.20087 2.631215,-0.27157 8.520266,-0.82837 15.646884,-0.98445 22.551934,-0.43175 0.728291,0.0583 1.907796,0.16856 2.634158,0.24732 5.107777,0.55386 9.653044,1.4768 12.323747,2.00754 0.71636,0.14237 1.88011,0.36322 2.60169,0.47767 0.63498,0.10071 1.15879,0.16959 1.57787,0.21669 0.72375,0.0813 1.31494,0.69417 1.31511,1.42479 0.004,16.11443 6.3e-4,44.50756 -1.7e-4,50.94509 -9e-5,0.73063 -0.59246,1.32318 -1.32308,1.32347 -20.433527,0.008 -57.18386,0.001 -64.593628,-2.7e-4 -0.730626,-1.5e-4 -1.322916,-0.59257 -1.322916,-1.3232 v -50.94509 c 0,-0.73062 0.591977,-1.34488 1.321143,-1.39076 z"
+             sodipodi:type="rect" />
+          <g
+             id="g4423"
+             style="filter:url(#filter4435)">
+            <path
+               style="fill:#333333;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="M 66.757073,205.91681 H 61.775768 V 131.24162 H 47.735431 l 7.496704,-7.63318 h 11.309038 z"
+               id="path865" />
+            <path
+               style="fill:#333333;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 77.385275,205.91681 h 4.981305 v -74.67519 h 14.040337 l -7.496704,-7.63318 H 77.601175 Z"
+               id="path867" />
+          </g>
+          <g
+             id="g4407"
+             style="filter:url(#filter4419)">
+            <path
+               style="fill:url(#meshgradient2879);fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 29.892095,131.23901 17.843336,0.003 7.496704,-7.63318 h 11.309038 v -15.3601 a 3.2616204,3.2616204 67.922473 0 0 -0.921547,-2.27206 l -2.025421,-2.08605 a 3.1283588,3.1283588 22.922473 0 0 -2.244464,-0.94914 H 51.141704 a 1.3229167,1.3229167 135 0 0 -1.322917,1.32292 v 1.93462 a 1.3229167,1.3229167 135 0 1 -1.322917,1.32292 h -8.487931 a 1.3229167,1.3229167 45 0 1 -1.322917,-1.32292 v -5.388 A 1.3229167,1.3229167 45 0 0 37.362105,99.487893 H 29.88696 a 1.3227028,1.3227028 134.99537 0 0 -1.322703,1.322917 l 0.0047,29.10507 a 1.3233378,1.3233378 44.999851 0 0 1.323131,1.32313 z"
+               id="path2877"
+               sodipodi:nodetypes="cccccccccccc"
+               inkscape:path-effect="#path-effect2901"
+               inkscape:original-d="m 28.569178,131.2388 19.166253,0.003 7.496704,-7.63318 H 66.541173 V 106.9256 l -3.868515,-3.98433 H 49.818787 v 4.58046 H 38.685022 V 99.487893 H 28.564043 Z" />
+            <path
+               style="fill:url(#meshgradient2907);fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 114.25025,131.23883 -17.843338,0.003 -7.496699,-7.63318 h -11.30904 v -15.3601 a 3.2616234,3.2616234 112.07751 0 1 0.921546,-2.27206 l 2.025418,-2.08605 A 3.128356,3.128356 157.07751 0 1 82.7926,102.9413 h 10.208039 a 1.3229167,1.3229167 45 0 1 1.322917,1.32292 v 1.93462 a 1.3229167,1.3229167 45 0 0 1.322917,1.32292 h 8.487927 a 1.3229167,1.3229167 135 0 0 1.32292,-1.32292 v -5.388 a 1.3229167,1.3229167 135 0 1 1.32292,-1.322917 h 7.47514 a 1.322703,1.322703 45.004629 0 1 1.32271,1.322917 l -0.005,29.10507 a 1.3233376,1.3233376 135.00014 0 1 -1.32313,1.32313 z"
+               id="path2903"
+               sodipodi:nodetypes="cccccccccccc"
+               inkscape:path-effect="#path-effect2905"
+               inkscape:original-d="m 115.57317,131.23862 -19.166258,0.003 -7.496699,-7.63318 h -11.30904 v -16.68302 l 3.86851,-3.98433 h 12.853873 v 4.58046 h 11.133764 v -8.033837 h 10.12098 z" />
+            <path
+               style="fill:url(#meshgradient2929);fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 114.25025,67.736599 -17.843338,-0.0028 -7.496699,7.63318 h -11.30904 v 15.360103 a 3.2616234,3.2616234 67.922491 0 0 0.921546,2.272054 l 2.025418,2.086056 a 3.128356,3.128356 22.922491 0 0 2.244463,0.949137 h 10.208039 a 1.3229167,1.3229167 135 0 0 1.322917,-1.322917 v -1.934626 a 1.3229167,1.3229167 135 0 1 1.322917,-1.322917 h 8.487927 a 1.3229167,1.3229167 45 0 1 1.32292,1.322917 v 5.388003 a 1.3229167,1.3229167 45 0 0 1.32292,1.322917 h 7.47514 a 1.322703,1.322703 134.99537 0 0 1.32271,-1.322917 l -0.005,-29.105073 a 1.3233376,1.3233376 44.999855 0 0 -1.32313,-1.323124 z"
+               id="path2925"
+               sodipodi:nodetypes="cccccccccccc"
+               inkscape:path-effect="#path-effect2927"
+               inkscape:original-d="m 115.57317,67.736806 -19.166258,-0.003 -7.496699,7.63318 h -11.30904 v 16.68302 l 3.86851,3.98433 h 12.853873 v -4.58046 h 11.133764 v 8.033837 h 10.12098 z" />
+            <path
+               style="fill:url(#meshgradient3015);fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               d="m 29.892095,67.736779 17.843336,-0.0028 7.496704,7.63318 h 11.309038 v 15.360103 a 3.2616204,3.2616204 112.07753 0 1 -0.921547,2.272053 l -2.025421,2.086058 a 3.1283588,3.1283588 157.07753 0 1 -2.244464,0.949136 H 51.141704 a 1.3229167,1.3229167 45 0 1 -1.322917,-1.32291 V 92.776973 A 1.3229167,1.3229167 45 0 0 48.49587,91.454056 h -8.487931 a 1.3229167,1.3229167 135 0 0 -1.322917,1.322917 v 5.388003 a 1.3229167,1.3229167 135 0 1 -1.322917,1.322917 H 29.88696 a 1.3227028,1.3227028 45.004633 0 1 -1.322703,-1.322917 l 0.0047,-29.105073 a 1.3233378,1.3233378 135.00015 0 1 1.323131,-1.323124 z"
+               id="path3011"
+               sodipodi:nodetypes="cccccccccccc"
+               inkscape:path-effect="#path-effect3013"
+               inkscape:original-d="m 28.569178,67.736986 19.166253,-0.003 7.496704,7.63318 h 11.309038 v 16.68302 l -3.868515,3.98433 H 49.818787 v -4.58046 H 38.685022 v 8.033837 H 28.564043 Z" />
+          </g>
+          <path
+             id="path3029"
+             style="fill:#808080;stroke:#000000;stroke-width:0.294002px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m 66.649985,69.98642 v 19.626227 c 0,0.584501 0.02945,1.546612 -0.151372,2.097914 -0.163242,0.497697 -0.485288,1.162197 -1.111848,1.967451 -0.35862,0.460899 -0.420816,1.194149 -0.09113,1.676795 a 1.4258889,1.4258889 14.639958 0 0 1.2882,0.33651 h 4.459677 6.576343 a 2.0046172,2.0046172 152.16828 0 0 1.655289,-0.873907 c 0.126956,-0.185855 -0.09978,-0.678683 -0.45857,-1.139855 -0.626556,-0.805345 -0.948518,-1.469881 -1.111673,-1.967544 -0.18065,-0.551028 -0.151192,-1.512863 -0.151192,-2.097364 V 69.98642 A 1.0583333,1.0583333 45 0 0 76.49538,68.928087 h -3.335198 -5.451864 a 1.0583333,1.0583333 135 0 0 -1.058333,1.058333 z"
+             inkscape:path-effect="#path-effect3034"
+             inkscape:original-d="M 66.649985,68.928087 V 90.67098 c 0,0 0.268814,1.434313 -1.951302,3.80992 l 0.826823,1.210417 h 6.576343 6.576343 L 79.505015,94.4809 C 77.284902,92.105293 77.553713,90.67098 77.553713,90.67098 V 68.928087 h -5.451864 z" />
+          <g
+             id="g4439"
+             style="filter:url(#filter4451)">
+            <path
+               id="rect3036"
+               style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#000000;stroke-width:0.165506;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000"
+               d="m 32.475355,55.903638 v 10.144916 h -1.970373 v 1.574363 h 1.970373 v 0.0087 h 2.257294 v -0.0087 h 1.970373 V 66.048554 H 34.732649 V 55.903638 Z" />
+            <path
+               id="path3043"
+               style="opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:#000000;stroke-width:0.165506;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000"
+               d="m 108.95691,55.903638 v 10.144916 h -1.97038 v 1.574363 h 1.97038 v 0.0087 h 2.25729 v -0.0087 h 1.97037 V 66.048554 H 111.2142 V 55.903638 Z" />
+          </g>
+        </g>
+      </g>
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000"
+         id="rect4495"
+         width="7.2786579"
+         height="26.008501"
+         x="136.26505"
+         y="164.66667" />
+      <text
+         xml:space="preserve"
+         id="text4497"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4499);fill:#000000;fill-opacity:1;stroke:none;"
+         transform="translate(1.9962019,-10.844448)"><tspan
+           x="14.648438"
+           y="259.01608"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">LADLE</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         id="text4505"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4507);fill:#000000;fill-opacity:1;stroke:none;"
+         transform="translate(48.583824,-8.6326967)"
+         x="29.794168"
+         y="0"><tspan
+           x="32.485466"
+           y="259.01608"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle">REFRACTORY
+</tspan></tspan><tspan
+           x="28.429947"
+           y="272.24521"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle">POURING TUBE</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         id="text4511"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4513);fill:#000000;fill-opacity:1;stroke:none;"
+         transform="translate(104.81891,-39.363633)"
+         x="29.794168"
+         y="0"><tspan
+           x="40.575367"
+           y="259.01608"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle">MOLTEN 
+</tspan></tspan><tspan
+           x="45.185463"
+           y="272.24521"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle">METAL</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         id="text4517"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4519);fill:#000000;fill-opacity:1;stroke:none;"
+         transform="translate(113.78311,-78.158261)"
+         x="29.794168"
+         y="0"><tspan
+           x="31.058841"
+           y="259.01608"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle">AIR PRESSURE</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         id="text4523"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4525);fill:#000000;fill-opacity:1;stroke:none;"
+         transform="translate(94.14625,-138.2991)"
+         x="29.794168"
+         y="0"><tspan
+           x="38.556061"
+           y="259.01608"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle">AIR TIGHT
+</tspan></tspan><tspan
+           x="39.114861"
+           y="272.24521"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle">CHAMBER</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         id="text4529"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4531);fill:#000000;fill-opacity:1;stroke:none;"
+         transform="translate(104.25519,-163.01957)"
+         x="29.794168"
+         y="0"><tspan
+           x="44.216021"
+           y="259.01608"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle">MOLDS</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         id="text4541"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4543);fill:#000000;fill-opacity:1;stroke:none;"
+         transform="translate(90.256953,-204.28123)"
+         x="29.794168"
+         y="0"><tspan
+           x="35.135548"
+           y="259.01608"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle">PNEUMATIC
+</tspan></tspan><tspan
+           x="42.336428"
+           y="272.24521"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle">CLAMPS</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         id="text4547"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4549);fill:#000000;fill-opacity:1;stroke:none;"
+         transform="translate(29.970927,-208.47792)"
+         x="29.794168"
+         y="0"><tspan
+           x="40.181665"
+           y="259.01608"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:Laksaman;-inkscape-font-specification:'Laksaman, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle">PLUNGER</tspan></tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 87.882285,51.25761 73.271236,76.285446"
+         id="path4551" />
+      <path
+         sodipodi:type="star"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1824;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000"
+         id="path4555"
+         sodipodi:sides="3"
+         sodipodi:cx="37.378906"
+         sodipodi:cy="17.180313"
+         sodipodi:r1="2.2069454"
+         sodipodi:r2="1.1034727"
+         sodipodi:arg1="1.0471976"
+         sodipodi:arg2="2.0943951"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-x="0.82649204"
+         transform="matrix(0.75523254,-1.2936674,0.85401339,0.49856609,29.534485,117.5057)"
+         d="m 38.482379,19.091584 -3.310418,-1.911271 3.310418,-1.911271 z" />
+      <path
+         sodipodi:type="star"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1824;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000"
+         id="path4571"
+         sodipodi:sides="3"
+         sodipodi:cx="37.378906"
+         sodipodi:cy="17.180313"
+         sodipodi:r1="2.2069454"
+         sodipodi:r2="1.1034727"
+         sodipodi:arg1="1.0471976"
+         sodipodi:arg2="2.0943951"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-x="1.1798264"
+         transform="matrix(1.2789108,-0.7799607,0.51489037,0.84427183,56.056426,74.834385)"
+         d="m 38.482379,19.091584 -3.310418,-1.911271 3.310418,-1.911271 z"
+         inkscape:transform-center-y="-1.1674169" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 114.11793,59.324496 10.27905,-5.934612"
+         id="path4573" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 145.80071,92.401155 -27.5725,-8.923676"
+         id="path4575" />
+      <path
+         sodipodi:type="star"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1824;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000"
+         id="path4577"
+         sodipodi:sides="3"
+         sodipodi:cx="37.378906"
+         sodipodi:cy="17.180313"
+         sodipodi:r1="2.2069454"
+         sodipodi:r2="1.1034727"
+         sodipodi:arg1="1.0471976"
+         sodipodi:arg2="2.0943951"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-x="0.52555539"
+         transform="matrix(1.4251992,0.46125776,-0.3044989,0.940844,68.611913,49.562336)"
+         d="m 38.482379,19.091584 -3.310418,-1.911271 3.310418,-1.911271 z"
+         inkscape:transform-center-y="-0.73933607" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 145.26024,95.98788 118.1081,106.11883"
+         id="path4579" />
+      <path
+         sodipodi:type="star"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1824;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000"
+         id="path4581"
+         sodipodi:sides="3"
+         sodipodi:cx="37.378906"
+         sodipodi:cy="17.180313"
+         sodipodi:r1="2.2069454"
+         sodipodi:r2="1.1034727"
+         sodipodi:arg1="1.0471976"
+         sodipodi:arg2="2.0943951"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-x="1.2429787"
+         transform="matrix(1.4034713,-0.52366003,0.34569371,0.92650034,58.15747,110.35392)"
+         d="m 38.482379,19.091584 -3.310418,-1.911271 3.310418,-1.911271 z"
+         inkscape:transform-center-y="-1.5374421" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 132.39964,124.81147 -28.56415,22.76935"
+         id="path4583" />
+      <path
+         sodipodi:type="star"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1824;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000"
+         id="path4585"
+         sodipodi:sides="3"
+         sodipodi:cx="37.378906"
+         sodipodi:cy="17.180313"
+         sodipodi:r1="2.2069454"
+         sodipodi:r2="1.1034727"
+         sodipodi:arg1="1.0471976"
+         sodipodi:arg2="2.0943951"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-x="1.0747316"
+         transform="matrix(1.1092194,-1.006769,0.66461769,0.7322502,49.555093,173.64878)"
+         d="m 38.482379,19.091584 -3.310418,-1.911271 3.310418,-1.911271 z"
+         inkscape:transform-center-y="-0.73918394" />
+      <path
+         sodipodi:type="star"
+         style="fill:#4e61b1;fill-opacity:1;stroke:#000000;stroke-width:0.1824;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000"
+         id="path4587"
+         sodipodi:sides="3"
+         sodipodi:cx="37.378906"
+         sodipodi:cy="17.180313"
+         sodipodi:r1="2.2069454"
+         sodipodi:r2="1.1034727"
+         sodipodi:arg1="1.0471976"
+         sodipodi:arg2="2.0943951"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-x="1.6118079"
+         transform="matrix(1.9389716,-0.0466249,0.0307794,1.2800104,51.957486,157.79367)"
+         d="m 38.482379,19.091584 -3.310418,-1.911271 3.310418,-1.911271 z"
+         inkscape:transform-center-y="-1.5638575" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.342572px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 127.1025,177.9904 h 15.36784"
+         id="path4589" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.371569px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 142.84687,217.14592 104.67111,203.03819"
+         id="path4591" />
+      <path
+         sodipodi:type="star"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1824;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000"
+         id="path4593"
+         sodipodi:sides="3"
+         sodipodi:cx="37.378906"
+         sodipodi:cy="17.180313"
+         sodipodi:r1="2.2069454"
+         sodipodi:r2="1.1034727"
+         sodipodi:arg1="1.0471976"
+         sodipodi:arg2="2.0943951"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-x="0.42671858"
+         transform="matrix(1.4051076,0.51925349,-0.34278474,0.92758053,56.467261,167.06881)"
+         d="m 38.482379,19.091584 -3.310418,-1.911271 3.310418,-1.911271 z"
+         inkscape:transform-center-y="-0.67553666" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.352757px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 102.07817,242.06044 82.822513,208.56176"
+         id="path4595" />
+      <path
+         sodipodi:type="star"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1824;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000"
+         id="path4597"
+         sodipodi:sides="3"
+         sodipodi:cx="37.378906"
+         sodipodi:cy="17.180313"
+         sodipodi:r1="2.2069454"
+         sodipodi:r2="1.1034727"
+         sodipodi:arg1="1.0471976"
+         sodipodi:arg2="2.0943951"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-x="-1.223156"
+         transform="matrix(0.7465235,1.2987125,-0.85734391,0.49281683,68.784361,150.09311)"
+         d="m 38.482379,19.091584 -3.310418,-1.911271 3.310418,-1.911271 z"
+         inkscape:transform-center-y="-1.1910052" />
+      <path
+         sodipodi:type="star"
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1824;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke;stop-color:#000000"
+         id="path4599"
+         sodipodi:sides="3"
+         sodipodi:cx="37.378906"
+         sodipodi:cy="17.180313"
+         sodipodi:r1="2.2069454"
+         sodipodi:r2="1.1034727"
+         sodipodi:arg1="1.0471976"
+         sodipodi:arg2="2.0943951"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-x="-1.0585282"
+         transform="matrix(-1.084662,1.0331794,-0.68205251,-0.71603869,93.287255,205.73414)"
+         d="m 38.482379,19.091584 -3.310418,-1.911271 3.310418,-1.911271 z"
+         inkscape:transform-center-y="0.68252642" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 39.829005,233.19158 -8.7886,7.97739"
+         id="path4601" />
+    </g>
+    <text
+       xml:space="preserve"
+       id="text3045"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333px;white-space:pre;shape-inside:url(#rect3047);" />
+  </g>
+  <script
+     id="mesh_polyfill"
+     type="text/javascript">
+!function(){const t=&quot;http://www.w3.org/2000/svg&quot;,e=&quot;http://www.w3.org/1999/xlink&quot;,s=&quot;http://www.w3.org/1999/xhtml&quot;,r=2;if(document.createElementNS(t,&quot;meshgradient&quot;).x)return;const n=(t,e,s,r)=&gt;{let n=new x(.5*(e.x+s.x),.5*(e.y+s.y)),o=new x(.5*(t.x+e.x),.5*(t.y+e.y)),i=new x(.5*(s.x+r.x),.5*(s.y+r.y)),a=new x(.5*(n.x+o.x),.5*(n.y+o.y)),h=new x(.5*(n.x+i.x),.5*(n.y+i.y)),l=new x(.5*(a.x+h.x),.5*(a.y+h.y));return[[t,o,a,l],[l,h,i,r]]},o=t=&gt;{let e=t[0].distSquared(t[1]),s=t[2].distSquared(t[3]),r=.25*t[0].distSquared(t[2]),n=.25*t[1].distSquared(t[3]),o=e&gt;s?e:s,i=r&gt;n?r:n;return 18*(o&gt;i?o:i)},i=(t,e)=&gt;Math.sqrt(t.distSquared(e)),a=(t,e)=&gt;t.scale(2/3).add(e.scale(1/3)),h=t=&gt;{let e,s,r,n,o,i,a,h=new g;return t.match(/(\w+\(\s*[^)]+\))+/g).forEach(t=&gt;{let l=t.match(/[\w.-]+/g),d=l.shift();switch(d){case&quot;translate&quot;:2===l.length?e=new g(1,0,0,1,l[0],l[1]):(console.error(&quot;mesh.js: translate does not have 2 arguments!&quot;),e=new g(1,0,0,1,0,0)),h=h.append(e);break;case&quot;scale&quot;:1===l.length?s=new g(l[0],0,0,l[0],0,0):2===l.length?s=new g(l[0],0,0,l[1],0,0):(console.error(&quot;mesh.js: scale does not have 1 or 2 arguments!&quot;),s=new g(1,0,0,1,0,0)),h=h.append(s);break;case&quot;rotate&quot;:if(3===l.length&amp;&amp;(e=new g(1,0,0,1,l[1],l[2]),h=h.append(e)),l[0]){r=l[0]*Math.PI/180;let t=Math.cos(r),e=Math.sin(r);Math.abs(t)&lt;1e-16&amp;&amp;(t=0),Math.abs(e)&lt;1e-16&amp;&amp;(e=0),a=new g(t,e,-e,t,0,0),h=h.append(a)}else console.error(&quot;math.js: No argument to rotate transform!&quot;);3===l.length&amp;&amp;(e=new g(1,0,0,1,-l[1],-l[2]),h=h.append(e));break;case&quot;skewX&quot;:l[0]?(r=l[0]*Math.PI/180,n=Math.tan(r),o=new g(1,0,n,1,0,0),h=h.append(o)):console.error(&quot;math.js: No argument to skewX transform!&quot;);break;case&quot;skewY&quot;:l[0]?(r=l[0]*Math.PI/180,n=Math.tan(r),i=new g(1,n,0,1,0,0),h=h.append(i)):console.error(&quot;math.js: No argument to skewY transform!&quot;);break;case&quot;matrix&quot;:6===l.length?h=h.append(new g(...l)):console.error(&quot;math.js: Incorrect number of arguments for matrix!&quot;);break;default:console.error(&quot;mesh.js: Unhandled transform type: &quot;+d)}}),h},l=t=&gt;{let e=[],s=t.split(/[ ,]+/);for(let t=0,r=s.length-1;t&lt;r;t+=2)e.push(new x(parseFloat(s[t]),parseFloat(s[t+1])));return e},d=(t,e)=&gt;{for(let s in e)t.setAttribute(s,e[s])},c=(t,e,s,r,n)=&gt;{let o,i,a=[0,0,0,0];for(let h=0;h&lt;3;++h)e[h]&lt;t[h]&amp;&amp;e[h]&lt;s[h]||t[h]&lt;e[h]&amp;&amp;s[h]&lt;e[h]?a[h]=0:(a[h]=.5*((e[h]-t[h])/r+(s[h]-e[h])/n),o=Math.abs(3*(e[h]-t[h])/r),i=Math.abs(3*(s[h]-e[h])/n),a[h]&gt;o?a[h]=o:a[h]&gt;i&amp;&amp;(a[h]=i));return a},u=[[1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],[0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0],[-3,3,0,0,-2,-1,0,0,0,0,0,0,0,0,0,0],[2,-2,0,0,1,1,0,0,0,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0],[0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0],[0,0,0,0,0,0,0,0,-3,3,0,0,-2,-1,0,0],[0,0,0,0,0,0,0,0,2,-2,0,0,1,1,0,0],[-3,0,3,0,0,0,0,0,-2,0,-1,0,0,0,0,0],[0,0,0,0,-3,0,3,0,0,0,0,0,-2,0,-1,0],[9,-9,-9,9,6,3,-6,-3,6,-6,3,-3,4,2,2,1],[-6,6,6,-6,-3,-3,3,3,-4,4,-2,2,-2,-2,-1,-1],[2,0,-2,0,0,0,0,0,1,0,1,0,0,0,0,0],[0,0,0,0,2,0,-2,0,0,0,0,0,1,0,1,0],[-6,6,6,-6,-4,-2,4,2,-3,3,-3,3,-2,-1,-2,-1],[4,-4,-4,4,2,2,-2,-2,2,-2,2,-2,1,1,1,1]],f=t=&gt;{let e=[];for(let s=0;s&lt;16;++s){e[s]=0;for(let r=0;r&lt;16;++r)e[s]+=u[s][r]*t[r]}return e},p=(t,e,s)=&gt;{const r=e*e,n=s*s,o=e*e*e,i=s*s*s;return t[0]+t[1]*e+t[2]*r+t[3]*o+t[4]*s+t[5]*s*e+t[6]*s*r+t[7]*s*o+t[8]*n+t[9]*n*e+t[10]*n*r+t[11]*n*o+t[12]*i+t[13]*i*e+t[14]*i*r+t[15]*i*o},y=t=&gt;{let e=[],s=[],r=[];for(let s=0;s&lt;4;++s)e[s]=[],e[s][0]=n(t[0][s],t[1][s],t[2][s],t[3][s]),e[s][1]=[],e[s][1].push(...n(...e[s][0][0])),e[s][1].push(...n(...e[s][0][1])),e[s][2]=[],e[s][2].push(...n(...e[s][1][0])),e[s][2].push(...n(...e[s][1][1])),e[s][2].push(...n(...e[s][1][2])),e[s][2].push(...n(...e[s][1][3]));for(let t=0;t&lt;8;++t){s[t]=[];for(let r=0;r&lt;4;++r)s[t][r]=[],s[t][r][0]=n(e[0][2][t][r],e[1][2][t][r],e[2][2][t][r],e[3][2][t][r]),s[t][r][1]=[],s[t][r][1].push(...n(...s[t][r][0][0])),s[t][r][1].push(...n(...s[t][r][0][1])),s[t][r][2]=[],s[t][r][2].push(...n(...s[t][r][1][0])),s[t][r][2].push(...n(...s[t][r][1][1])),s[t][r][2].push(...n(...s[t][r][1][2])),s[t][r][2].push(...n(...s[t][r][1][3]))}for(let t=0;t&lt;8;++t){r[t]=[];for(let e=0;e&lt;8;++e)r[t][e]=[],r[t][e][0]=s[t][0][2][e],r[t][e][1]=s[t][1][2][e],r[t][e][2]=s[t][2][2][e],r[t][e][3]=s[t][3][2][e]}return r};class x{constructor(t,e){this.x=t||0,this.y=e||0}toString(){return`(x=${this.x}, y=${this.y})`}clone(){return new x(this.x,this.y)}add(t){return new x(this.x+t.x,this.y+t.y)}scale(t){return void 0===t.x?new x(this.x*t,this.y*t):new x(this.x*t.x,this.y*t.y)}distSquared(t){let e=this.x-t.x,s=this.y-t.y;return e*e+s*s}transform(t){let e=this.x*t.a+this.y*t.c+t.e,s=this.x*t.b+this.y*t.d+t.f;return new x(e,s)}}class g{constructor(t,e,s,r,n,o){void 0===t?(this.a=1,this.b=0,this.c=0,this.d=1,this.e=0,this.f=0):(this.a=t,this.b=e,this.c=s,this.d=r,this.e=n,this.f=o)}toString(){return`affine: ${this.a} ${this.c} ${this.e} \n       ${this.b} ${this.d} ${this.f}`}append(t){t instanceof g||console.error(&quot;mesh.js: argument to Affine.append is not affine!&quot;);let e=this.a*t.a+this.c*t.b,s=this.b*t.a+this.d*t.b,r=this.a*t.c+this.c*t.d,n=this.b*t.c+this.d*t.d,o=this.a*t.e+this.c*t.f+this.e,i=this.b*t.e+this.d*t.f+this.f;return new g(e,s,r,n,o,i)}}class w{constructor(t,e){this.nodes=t,this.colors=e}paintCurve(t,e){if(o(this.nodes)&gt;r){const s=n(...this.nodes);let r=[[],[]],o=[[],[]];for(let t=0;t&lt;4;++t)r[0][t]=this.colors[0][t],r[1][t]=(this.colors[0][t]+this.colors[1][t])/2,o[0][t]=r[1][t],o[1][t]=this.colors[1][t];let i=new w(s[0],r),a=new w(s[1],o);i.paintCurve(t,e),a.paintCurve(t,e)}else{let s=Math.round(this.nodes[0].x);if(s&gt;=0&amp;&amp;s&lt;e){let r=4*(~~this.nodes[0].y*e+s);t[r]=Math.round(this.colors[0][0]),t[r+1]=Math.round(this.colors[0][1]),t[r+2]=Math.round(this.colors[0][2]),t[r+3]=Math.round(this.colors[0][3])}}}}class m{constructor(t,e){this.nodes=t,this.colors=e}split(){let t=[[],[],[],[]],e=[[],[],[],[]],s=[[[],[]],[[],[]]],r=[[[],[]],[[],[]]];for(let s=0;s&lt;4;++s){const r=n(this.nodes[0][s],this.nodes[1][s],this.nodes[2][s],this.nodes[3][s]);t[0][s]=r[0][0],t[1][s]=r[0][1],t[2][s]=r[0][2],t[3][s]=r[0][3],e[0][s]=r[1][0],e[1][s]=r[1][1],e[2][s]=r[1][2],e[3][s]=r[1][3]}for(let t=0;t&lt;4;++t)s[0][0][t]=this.colors[0][0][t],s[0][1][t]=this.colors[0][1][t],s[1][0][t]=(this.colors[0][0][t]+this.colors[1][0][t])/2,s[1][1][t]=(this.colors[0][1][t]+this.colors[1][1][t])/2,r[0][0][t]=s[1][0][t],r[0][1][t]=s[1][1][t],r[1][0][t]=this.colors[1][0][t],r[1][1][t]=this.colors[1][1][t];return[new m(t,s),new m(e,r)]}paint(t,e){let s,n=!1;for(let t=0;t&lt;4;++t)if((s=o([this.nodes[0][t],this.nodes[1][t],this.nodes[2][t],this.nodes[3][t]]))&gt;r){n=!0;break}if(n){let s=this.split();s[0].paint(t,e),s[1].paint(t,e)}else{new w([...this.nodes[0]],[...this.colors[0]]).paintCurve(t,e)}}}class b{constructor(t){this.readMesh(t),this.type=t.getAttribute(&quot;type&quot;)||&quot;bilinear&quot;}readMesh(t){let e=[[]],s=[[]],r=Number(t.getAttribute(&quot;x&quot;)),n=Number(t.getAttribute(&quot;y&quot;));e[0][0]=new x(r,n);let o=t.children;for(let t=0,r=o.length;t&lt;r;++t){e[3*t+1]=[],e[3*t+2]=[],e[3*t+3]=[],s[t+1]=[];let r=o[t].children;for(let n=0,o=r.length;n&lt;o;++n){let o=r[n].children;for(let r=0,i=o.length;r&lt;i;++r){let i=r;0!==t&amp;&amp;++i;let h,d=o[r].getAttribute(&quot;path&quot;),c=&quot;l&quot;;null!=d&amp;&amp;(c=(h=d.match(/\s*([lLcC])\s*(.*)/))[1]);let u=l(h[2]);switch(c){case&quot;l&quot;:0===i?(e[3*t][3*n+3]=u[0].add(e[3*t][3*n]),e[3*t][3*n+1]=a(e[3*t][3*n],e[3*t][3*n+3]),e[3*t][3*n+2]=a(e[3*t][3*n+3],e[3*t][3*n])):1===i?(e[3*t+3][3*n+3]=u[0].add(e[3*t][3*n+3]),e[3*t+1][3*n+3]=a(e[3*t][3*n+3],e[3*t+3][3*n+3]),e[3*t+2][3*n+3]=a(e[3*t+3][3*n+3],e[3*t][3*n+3])):2===i?(0===n&amp;&amp;(e[3*t+3][3*n+0]=u[0].add(e[3*t+3][3*n+3])),e[3*t+3][3*n+1]=a(e[3*t+3][3*n],e[3*t+3][3*n+3]),e[3*t+3][3*n+2]=a(e[3*t+3][3*n+3],e[3*t+3][3*n])):(e[3*t+1][3*n]=a(e[3*t][3*n],e[3*t+3][3*n]),e[3*t+2][3*n]=a(e[3*t+3][3*n],e[3*t][3*n]));break;case&quot;L&quot;:0===i?(e[3*t][3*n+3]=u[0],e[3*t][3*n+1]=a(e[3*t][3*n],e[3*t][3*n+3]),e[3*t][3*n+2]=a(e[3*t][3*n+3],e[3*t][3*n])):1===i?(e[3*t+3][3*n+3]=u[0],e[3*t+1][3*n+3]=a(e[3*t][3*n+3],e[3*t+3][3*n+3]),e[3*t+2][3*n+3]=a(e[3*t+3][3*n+3],e[3*t][3*n+3])):2===i?(0===n&amp;&amp;(e[3*t+3][3*n+0]=u[0]),e[3*t+3][3*n+1]=a(e[3*t+3][3*n],e[3*t+3][3*n+3]),e[3*t+3][3*n+2]=a(e[3*t+3][3*n+3],e[3*t+3][3*n])):(e[3*t+1][3*n]=a(e[3*t][3*n],e[3*t+3][3*n]),e[3*t+2][3*n]=a(e[3*t+3][3*n],e[3*t][3*n]));break;case&quot;c&quot;:0===i?(e[3*t][3*n+1]=u[0].add(e[3*t][3*n]),e[3*t][3*n+2]=u[1].add(e[3*t][3*n]),e[3*t][3*n+3]=u[2].add(e[3*t][3*n])):1===i?(e[3*t+1][3*n+3]=u[0].add(e[3*t][3*n+3]),e[3*t+2][3*n+3]=u[1].add(e[3*t][3*n+3]),e[3*t+3][3*n+3]=u[2].add(e[3*t][3*n+3])):2===i?(e[3*t+3][3*n+2]=u[0].add(e[3*t+3][3*n+3]),e[3*t+3][3*n+1]=u[1].add(e[3*t+3][3*n+3]),0===n&amp;&amp;(e[3*t+3][3*n+0]=u[2].add(e[3*t+3][3*n+3]))):(e[3*t+2][3*n]=u[0].add(e[3*t+3][3*n]),e[3*t+1][3*n]=u[1].add(e[3*t+3][3*n]));break;case&quot;C&quot;:0===i?(e[3*t][3*n+1]=u[0],e[3*t][3*n+2]=u[1],e[3*t][3*n+3]=u[2]):1===i?(e[3*t+1][3*n+3]=u[0],e[3*t+2][3*n+3]=u[1],e[3*t+3][3*n+3]=u[2]):2===i?(e[3*t+3][3*n+2]=u[0],e[3*t+3][3*n+1]=u[1],0===n&amp;&amp;(e[3*t+3][3*n+0]=u[2])):(e[3*t+2][3*n]=u[0],e[3*t+1][3*n]=u[1]);break;default:console.error(&quot;mesh.js: &quot;+c+&quot; invalid path type.&quot;)}if(0===t&amp;&amp;0===n||r&gt;0){let e=window.getComputedStyle(o[r]).stopColor.match(/^rgb\s*\(\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)\s*\)$/i),a=window.getComputedStyle(o[r]).stopOpacity,h=255;a&amp;&amp;(h=Math.floor(255*a)),e&amp;&amp;(0===i?(s[t][n]=[],s[t][n][0]=Math.floor(e[1]),s[t][n][1]=Math.floor(e[2]),s[t][n][2]=Math.floor(e[3]),s[t][n][3]=h):1===i?(s[t][n+1]=[],s[t][n+1][0]=Math.floor(e[1]),s[t][n+1][1]=Math.floor(e[2]),s[t][n+1][2]=Math.floor(e[3]),s[t][n+1][3]=h):2===i?(s[t+1][n+1]=[],s[t+1][n+1][0]=Math.floor(e[1]),s[t+1][n+1][1]=Math.floor(e[2]),s[t+1][n+1][2]=Math.floor(e[3]),s[t+1][n+1][3]=h):3===i&amp;&amp;(s[t+1][n]=[],s[t+1][n][0]=Math.floor(e[1]),s[t+1][n][1]=Math.floor(e[2]),s[t+1][n][2]=Math.floor(e[3]),s[t+1][n][3]=h))}}e[3*t+1][3*n+1]=new x,e[3*t+1][3*n+2]=new x,e[3*t+2][3*n+1]=new x,e[3*t+2][3*n+2]=new x,e[3*t+1][3*n+1].x=(-4*e[3*t][3*n].x+6*(e[3*t][3*n+1].x+e[3*t+1][3*n].x)+-2*(e[3*t][3*n+3].x+e[3*t+3][3*n].x)+3*(e[3*t+3][3*n+1].x+e[3*t+1][3*n+3].x)+-1*e[3*t+3][3*n+3].x)/9,e[3*t+1][3*n+2].x=(-4*e[3*t][3*n+3].x+6*(e[3*t][3*n+2].x+e[3*t+1][3*n+3].x)+-2*(e[3*t][3*n].x+e[3*t+3][3*n+3].x)+3*(e[3*t+3][3*n+2].x+e[3*t+1][3*n].x)+-1*e[3*t+3][3*n].x)/9,e[3*t+2][3*n+1].x=(-4*e[3*t+3][3*n].x+6*(e[3*t+3][3*n+1].x+e[3*t+2][3*n].x)+-2*(e[3*t+3][3*n+3].x+e[3*t][3*n].x)+3*(e[3*t][3*n+1].x+e[3*t+2][3*n+3].x)+-1*e[3*t][3*n+3].x)/9,e[3*t+2][3*n+2].x=(-4*e[3*t+3][3*n+3].x+6*(e[3*t+3][3*n+2].x+e[3*t+2][3*n+3].x)+-2*(e[3*t+3][3*n].x+e[3*t][3*n+3].x)+3*(e[3*t][3*n+2].x+e[3*t+2][3*n].x)+-1*e[3*t][3*n].x)/9,e[3*t+1][3*n+1].y=(-4*e[3*t][3*n].y+6*(e[3*t][3*n+1].y+e[3*t+1][3*n].y)+-2*(e[3*t][3*n+3].y+e[3*t+3][3*n].y)+3*(e[3*t+3][3*n+1].y+e[3*t+1][3*n+3].y)+-1*e[3*t+3][3*n+3].y)/9,e[3*t+1][3*n+2].y=(-4*e[3*t][3*n+3].y+6*(e[3*t][3*n+2].y+e[3*t+1][3*n+3].y)+-2*(e[3*t][3*n].y+e[3*t+3][3*n+3].y)+3*(e[3*t+3][3*n+2].y+e[3*t+1][3*n].y)+-1*e[3*t+3][3*n].y)/9,e[3*t+2][3*n+1].y=(-4*e[3*t+3][3*n].y+6*(e[3*t+3][3*n+1].y+e[3*t+2][3*n].y)+-2*(e[3*t+3][3*n+3].y+e[3*t][3*n].y)+3*(e[3*t][3*n+1].y+e[3*t+2][3*n+3].y)+-1*e[3*t][3*n+3].y)/9,e[3*t+2][3*n+2].y=(-4*e[3*t+3][3*n+3].y+6*(e[3*t+3][3*n+2].y+e[3*t+2][3*n+3].y)+-2*(e[3*t+3][3*n].y+e[3*t][3*n+3].y)+3*(e[3*t][3*n+2].y+e[3*t+2][3*n].y)+-1*e[3*t][3*n].y)/9}}this.nodes=e,this.colors=s}paintMesh(t,e){let s=(this.nodes.length-1)/3,r=(this.nodes[0].length-1)/3;if(&quot;bilinear&quot;===this.type||s&lt;2||r&lt;2){let n;for(let o=0;o&lt;s;++o)for(let s=0;s&lt;r;++s){let r=[];for(let t=3*o,e=3*o+4;t&lt;e;++t)r.push(this.nodes[t].slice(3*s,3*s+4));let i=[];i.push(this.colors[o].slice(s,s+2)),i.push(this.colors[o+1].slice(s,s+2)),(n=new m(r,i)).paint(t,e)}}else{let n,o,a,h,l,d,u;const x=s,g=r;s++,r++;let w=new Array(s);for(let t=0;t&lt;s;++t){w[t]=new Array(r);for(let e=0;e&lt;r;++e)w[t][e]=[],w[t][e][0]=this.nodes[3*t][3*e],w[t][e][1]=this.colors[t][e]}for(let t=0;t&lt;s;++t)for(let e=0;e&lt;r;++e)0!==t&amp;&amp;t!==x&amp;&amp;(n=i(w[t-1][e][0],w[t][e][0]),o=i(w[t+1][e][0],w[t][e][0]),w[t][e][2]=c(w[t-1][e][1],w[t][e][1],w[t+1][e][1],n,o)),0!==e&amp;&amp;e!==g&amp;&amp;(n=i(w[t][e-1][0],w[t][e][0]),o=i(w[t][e+1][0],w[t][e][0]),w[t][e][3]=c(w[t][e-1][1],w[t][e][1],w[t][e+1][1],n,o));for(let t=0;t&lt;r;++t){w[0][t][2]=[],w[x][t][2]=[];for(let e=0;e&lt;4;++e)n=i(w[1][t][0],w[0][t][0]),o=i(w[x][t][0],w[x-1][t][0]),w[0][t][2][e]=n&gt;0?2*(w[1][t][1][e]-w[0][t][1][e])/n-w[1][t][2][e]:0,w[x][t][2][e]=o&gt;0?2*(w[x][t][1][e]-w[x-1][t][1][e])/o-w[x-1][t][2][e]:0}for(let t=0;t&lt;s;++t){w[t][0][3]=[],w[t][g][3]=[];for(let e=0;e&lt;4;++e)n=i(w[t][1][0],w[t][0][0]),o=i(w[t][g][0],w[t][g-1][0]),w[t][0][3][e]=n&gt;0?2*(w[t][1][1][e]-w[t][0][1][e])/n-w[t][1][3][e]:0,w[t][g][3][e]=o&gt;0?2*(w[t][g][1][e]-w[t][g-1][1][e])/o-w[t][g-1][3][e]:0}for(let s=0;s&lt;x;++s)for(let r=0;r&lt;g;++r){let n=i(w[s][r][0],w[s+1][r][0]),o=i(w[s][r+1][0],w[s+1][r+1][0]),c=i(w[s][r][0],w[s][r+1][0]),x=i(w[s+1][r][0],w[s+1][r+1][0]),g=[[],[],[],[]];for(let t=0;t&lt;4;++t){(d=[])[0]=w[s][r][1][t],d[1]=w[s+1][r][1][t],d[2]=w[s][r+1][1][t],d[3]=w[s+1][r+1][1][t],d[4]=w[s][r][2][t]*n,d[5]=w[s+1][r][2][t]*n,d[6]=w[s][r+1][2][t]*o,d[7]=w[s+1][r+1][2][t]*o,d[8]=w[s][r][3][t]*c,d[9]=w[s+1][r][3][t]*x,d[10]=w[s][r+1][3][t]*c,d[11]=w[s+1][r+1][3][t]*x,d[12]=0,d[13]=0,d[14]=0,d[15]=0,u=f(d);for(let e=0;e&lt;9;++e){g[t][e]=[];for(let s=0;s&lt;9;++s)g[t][e][s]=p(u,e/8,s/8),g[t][e][s]&gt;255?g[t][e][s]=255:g[t][e][s]&lt;0&amp;&amp;(g[t][e][s]=0)}}h=[];for(let t=3*s,e=3*s+4;t&lt;e;++t)h.push(this.nodes[t].slice(3*r,3*r+4));l=y(h);for(let s=0;s&lt;8;++s)for(let r=0;r&lt;8;++r)(a=new m(l[s][r],[[[g[0][s][r],g[1][s][r],g[2][s][r],g[3][s][r]],[g[0][s][r+1],g[1][s][r+1],g[2][s][r+1],g[3][s][r+1]]],[[g[0][s+1][r],g[1][s+1][r],g[2][s+1][r],g[3][s+1][r]],[g[0][s+1][r+1],g[1][s+1][r+1],g[2][s+1][r+1],g[3][s+1][r+1]]]])).paint(t,e)}}}transform(t){if(t instanceof x)for(let e=0,s=this.nodes.length;e&lt;s;++e)for(let s=0,r=this.nodes[0].length;s&lt;r;++s)this.nodes[e][s]=this.nodes[e][s].add(t);else if(t instanceof g)for(let e=0,s=this.nodes.length;e&lt;s;++e)for(let s=0,r=this.nodes[0].length;s&lt;r;++s)this.nodes[e][s]=this.nodes[e][s].transform(t)}scale(t){for(let e=0,s=this.nodes.length;e&lt;s;++e)for(let s=0,r=this.nodes[0].length;s&lt;r;++s)this.nodes[e][s]=this.nodes[e][s].scale(t)}}document.querySelectorAll(&quot;rect,circle,ellipse,path,text&quot;).forEach((r,n)=&gt;{let o=r.getAttribute(&quot;id&quot;);o||(o=&quot;patchjs_shape&quot;+n,r.setAttribute(&quot;id&quot;,o));const i=r.style.fill.match(/^url\(\s*&quot;?\s*#([^\s&quot;]+)&quot;?\s*\)/),a=r.style.stroke.match(/^url\(\s*&quot;?\s*#([^\s&quot;]+)&quot;?\s*\)/);if(i&amp;&amp;i[1]){const a=document.getElementById(i[1]);if(a&amp;&amp;&quot;meshgradient&quot;===a.nodeName){const i=r.getBBox();let l=document.createElementNS(s,&quot;canvas&quot;);d(l,{width:i.width,height:i.height});const c=l.getContext(&quot;2d&quot;);let u=c.createImageData(i.width,i.height);const f=new b(a);&quot;objectBoundingBox&quot;===a.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;f.scale(new x(i.width,i.height));const p=a.getAttribute(&quot;gradientTransform&quot;);null!=p&amp;&amp;f.transform(h(p)),&quot;userSpaceOnUse&quot;===a.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;f.transform(new x(-i.x,-i.y)),f.paintMesh(u.data,l.width),c.putImageData(u,0,0);const y=document.createElementNS(t,&quot;image&quot;);d(y,{width:i.width,height:i.height,x:i.x,y:i.y});let g=l.toDataURL();y.setAttributeNS(e,&quot;xlink:href&quot;,g),r.parentNode.insertBefore(y,r),r.style.fill=&quot;none&quot;;const w=document.createElementNS(t,&quot;use&quot;);w.setAttributeNS(e,&quot;xlink:href&quot;,&quot;#&quot;+o);const m=&quot;patchjs_clip&quot;+n,M=document.createElementNS(t,&quot;clipPath&quot;);M.setAttribute(&quot;id&quot;,m),M.appendChild(w),r.parentElement.insertBefore(M,r),y.setAttribute(&quot;clip-path&quot;,&quot;url(#&quot;+m+&quot;)&quot;),u=null,l=null,g=null}}if(a&amp;&amp;a[1]){const o=document.getElementById(a[1]);if(o&amp;&amp;&quot;meshgradient&quot;===o.nodeName){const i=parseFloat(r.style.strokeWidth.slice(0,-2))*(parseFloat(r.style.strokeMiterlimit)||parseFloat(r.getAttribute(&quot;stroke-miterlimit&quot;))||1),a=r.getBBox(),l=Math.trunc(a.width+i),c=Math.trunc(a.height+i),u=Math.trunc(a.x-i/2),f=Math.trunc(a.y-i/2);let p=document.createElementNS(s,&quot;canvas&quot;);d(p,{width:l,height:c});const y=p.getContext(&quot;2d&quot;);let g=y.createImageData(l,c);const w=new b(o);&quot;objectBoundingBox&quot;===o.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;w.scale(new x(l,c));const m=o.getAttribute(&quot;gradientTransform&quot;);null!=m&amp;&amp;w.transform(h(m)),&quot;userSpaceOnUse&quot;===o.getAttribute(&quot;gradientUnits&quot;)&amp;&amp;w.transform(new x(-u,-f)),w.paintMesh(g.data,p.width),y.putImageData(g,0,0);const M=document.createElementNS(t,&quot;image&quot;);d(M,{width:l,height:c,x:0,y:0});let S=p.toDataURL();M.setAttributeNS(e,&quot;xlink:href&quot;,S);const k=&quot;pattern_clip&quot;+n,A=document.createElementNS(t,&quot;pattern&quot;);d(A,{id:k,patternUnits:&quot;userSpaceOnUse&quot;,width:l,height:c,x:u,y:f}),A.appendChild(M),o.parentNode.appendChild(A),r.style.stroke=&quot;url(#&quot;+k+&quot;)&quot;,g=null,p=null,S=null}}})}();
+</script>
+</svg>
