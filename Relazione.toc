@@ -14,6 +14,4 @@
 \contentsline {subsection}{\numberline {3.4}Microfusione}{15}{subsection.3.4}%
 \contentsline {section}{\numberline {4}Funzioni, obiettivi, vincoli}{16}{section.4}%
 \contentsline {section}{\numberline {5}Indici di merito}{17}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Stadio N}{20}{subsection.5.1}%
-\contentsline {section}{\numberline {6}Processo Produttivo}{21}{section.6}%
-\contentsline {section}{\numberline {7}Conclusioni}{22}{section.7}%
+\contentsline {section}{\numberline {6}Conclusioni}{20}{section.6}%

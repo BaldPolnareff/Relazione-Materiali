@@ -63,7 +63,7 @@ K = [k_MARM432 k_IN162 k_IN738C k_IN738LC k_MARM421];
 %% CALCOLO DEGLI INDICI DI INTERESSE
 
 i = 1;
-Index_frac_tough = [0 0 0 0 0 0];
+Index_frac_tough = [0 0 0 0 0];
 
 for i = 1:N_materiali
 
@@ -73,7 +73,7 @@ for i = 1:N_materiali
 end 
 
 j = 1;
-Index_fatigue = [0 0 0 0 0 0];
+Index_fatigue = [0 0 0 0 0];
 
 for j = 1:N_materiali
      

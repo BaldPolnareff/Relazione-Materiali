@@ -171,19 +171,7 @@
     a letto di polvere con \textit{EBM} (Electron Beam Melting). \\ 
 
     Tuttavia, per seguire il workflow proposto dal database di \textit{Granta}, si é optato
-    per un altro processo produttivo piú tradizionale, il \textit{casting} (in particolare
-    il casting in forma). 
-
-    Tra i metodi tradizionali, questa tecnica produttiva, che consiste nella solidificazione di metallo fuso
-    in uno stampo dalla geometria prossima a quella desiderata, é l'unica adatta alla produzione di parti 
-    in superleghe di Nickel ad alte prestazioni. 
-
-    Altri processi quali ad esempio il casting in lingotti, con successiva forgiatura o estrusione, se applicati a queste superleghe,
-    portano troppo spesso a cricche e danni irreversibili durante la lavorazione \autocite{Mouritz}.
-
-    Inoltre, seppur non al livello della manufattura additiva, il casting in forma consente comunque un minor spreco 
-    di materiale, dato che le operazioni di natura strettamente sottrattiva sono limitate ad un'inevitabile
-    rifinitura del componente estratto dallo stampo. 
+    per un altro processo produttivo piú tradizionale, il \textit{casting}. 
 
     \begin{figure}[h!]
         \centering
@@ -191,6 +179,20 @@
         \includegraphics[width=0.45\textwidth]{Sources/pressurized_mold.eps}
         \caption{Schema di un casting in low-pressure permanent mold \autocite{Inkscape}}
     \end{figure}
+
+
+    Tra i metodi tradizionali, questa tecnica produttiva, che consiste nella solidificazione di metallo fuso
+    in uno stampo dalla geometria prossima a quella desiderata, si é negli ultimi anni notevolmente evoluta
+    al punto da essere il gold standard nella
+    produzione di parti in superleghe di Nickel ad alte prestazioni, con tecniche avanzate come il casting con
+    gas a bassa pressione o l' \textit{investment casting}, scelta definitiva per la manufattura del componente. 
+
+    Altri processi quali ad esempio il casting in lingotti, con successiva forgiatura o estrusione, se applicati a queste superleghe,
+    portano troppo spesso a cricche e danni irreversibili durante la lavorazione \autocite{Mouritz}.
+
+    Inoltre, seppur non sempre al livello della manufattura additiva, l'\textit{investment casting} consente comunque un minor spreco 
+    di materiale, dato che le operazioni di natura strettamente sottrattiva sono limitate ad un'inevitabile
+    rifinitura del componente estratto dallo stampo. 
 
     
 
@@ -263,7 +265,7 @@
         Tutti i possibili indici di merito di un materiale sono spesso definiti in funzione della densitá, specialmente in campo aerospaziale, in cui l’ottimizzazione del peso di ogni componente risulta fondamentale, tra le svariate motivazioni, per massimizzare l’efficienza propulsiva, riducendo quindi la spesa sul carburante, che ha un impatto sostanziale sui costi complessivi di un velivolo.
         \\ \\ 
         In seguito alla promettente fase di preselezione sul database,
-        superata da sei materiali candidati, si é deciso di concentrarsi su gli indici relativi alla \textit{fracture toughness} e alla \textit{resist fatigue},
+        superata da cinque materiali candidati, si é deciso di concentrarsi sugli indici relativi alla \textit{fracture toughness} e alla \textit{resist fatigue},
         per le quali i materiali preselezionati non mostrano evidenti compromessi ottimali.
 
         \begin{figure}[h!]
@@ -331,21 +333,48 @@
 
         Dopo varie sostituzioni algebriche, si ottiene una massa $m \propto \frac{\rho}{\sigma_e}$.
 
-        Per cui in definitiva, si definisce il relativo indice di merito, da massimizzare:
+        Per cui in definitiva, si definisce il relativo indice di merito, da massimizzare \autocite{SciencePubGroup}:
 
         \begin{equation}
             \phantomsection \label{equation:resist_fatigue_index}
             i_{sigma} = \left (\frac{\sigma_e}{\rho}\right)
         \end{equation}
 
-        \clearpage 
-        \dots
-        \subsection{Stadio N}
+        Sfruttando queste definizioni ed i dati reperiti su \textit{Granta}, 
+        sono stati calcolati i due indici di merito per ogni materiale, tramite un breve script in 
+        \textit{Octave} \autocite{Octave}, disponibile nel repository di questo progetto \autocite{Relazione_materiali}. \\ 
+
+        Considerando che, per come sono stati definiti, tali indici devono essere massimizzati al fine di ridurre il peso, 
+        una possibile opzione é quella di comparare il valore massimo di ognuno dei due indici e trovare un compromesso
+        a seconda delle prioritá di progetto.
+
+        \begin{equation}
+            Materials = [MARM432, \ IN162, \ IN738C, \ IN738LC, \ MARM421] 
+            \phantomsection \label{vector:material_list}
+        \end{equation}
+
+        \begin{equation}
+            \vec{i}_{sigma} = [\textbf{0.0069325}, \ 0.0053870, \  0.0061420,
+             \ 0.0039815, \  0.0060681
+            ]
+            \phantomsection \label{vector:index_fatigue}
+        \end{equation}
+
+        \begin{equation}
+            \vec{i}_{K} = [0.00046442,\   0.00055294,\   0.00047407,\
+            \textbf{0.00057901},\   0.00039814]
+            \phantomsection \label{vector:index_frac_tough}
+        \end{equation}
+
+        Da (\ref{vector:material_list}), (\ref{vector:index_fatigue}) e (\ref{vector:index_frac_tough}) si evince come 
+        la lega \textit{MARM432} presenti la migliore resistenza a fatica per peso, permettendo, potenzialmente, 
+        una maggiore durata dell'operativitá del componente.
+
+        D'altro canto, si evince anche che la lega \textit{IN738LC}
+
+        
         \clearpage
 
-    \section{Processo Produttivo\label{product_process}}
-
-    \clearpage
 
     \section{Conclusioni\label{conclusioni}}
 

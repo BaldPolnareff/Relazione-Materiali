@@ -2189,11 +2189,14 @@
     <bcf:citekey order="5">Inkscape</bcf:citekey>
     <bcf:citekey order="6">Mouritz</bcf:citekey>
     <bcf:citekey order="7">Mouritz</bcf:citekey>
-    <bcf:citekey order="8">Mouritz</bcf:citekey>
-    <bcf:citekey order="9">Inkscape</bcf:citekey>
+    <bcf:citekey order="8">Inkscape</bcf:citekey>
+    <bcf:citekey order="9">Mouritz</bcf:citekey>
     <bcf:citekey order="10">Inkscape</bcf:citekey>
     <bcf:citekey order="11">Inkscape</bcf:citekey>
     <bcf:citekey order="12">SciencePubGroup</bcf:citekey>
+    <bcf:citekey order="13">SciencePubGroup</bcf:citekey>
+    <bcf:citekey order="14">Octave</bcf:citekey>
+    <bcf:citekey order="15">Relazione_materiali</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

@@ -19,6 +19,33 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{Octave}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=a789af59278b89f0b2c01d3480e87176}{%
+           family={Eaton},
+           familyi={E\bibinitperiod},
+           given={John\bibnamedelima W.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=8b880490ac1f48e94c717ffc3f30d4da}{%
+           family={others},
+           familyi={o\bibinitperiod},
+           prefix={many},
+           prefixi={m\bibinitperiod}}}%
+      }
+      \strng{namehash}{7359b980dbea6a33ece72a88d0f716d2}
+      \strng{fullhash}{7359b980dbea6a33ece72a88d0f716d2}
+      \strng{bibnamehash}{7359b980dbea6a33ece72a88d0f716d2}
+      \strng{authorbibnamehash}{7359b980dbea6a33ece72a88d0f716d2}
+      \strng{authornamehash}{7359b980dbea6a33ece72a88d0f716d2}
+      \strng{authorfullhash}{7359b980dbea6a33ece72a88d0f716d2}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.gnu.org/software/octave/index}}
+      \field{title}{GNU Octave}
+      \field{year}{2020}
+    \endentry
     \entry{SciencePubGroup}{article}{}
       \name{author}{1}{}{%
         {{hash=239eee5372b8dda9120269095ba62636}{%
@@ -114,6 +141,27 @@
       \field{labeltitlesource}{title}
       \field{howpublished}{\url{https://inkscape.org/}}
       \field{title}{Inkscape}
+    \endentry
+    \entry{Relazione_materiali}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=a0509674ff2cf6f9f3cb4105ec3be516}{%
+           family={Roberto},
+           familyi={R\bibinitperiod},
+           given={De\bibnamedelima Trane\bibnamedelimb Giorgio;\bibnamedelimb Gonzales\bibnamedelimb Anthony\bibnamedelimb Steven\bibnamedelimb Luna;\bibnamedelimb Barbero\bibnamedelimb Giulia;\bibnamedelima Giusto},
+           giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \strng{namehash}{a0509674ff2cf6f9f3cb4105ec3be516}
+      \strng{fullhash}{a0509674ff2cf6f9f3cb4105ec3be516}
+      \strng{bibnamehash}{a0509674ff2cf6f9f3cb4105ec3be516}
+      \strng{authorbibnamehash}{a0509674ff2cf6f9f3cb4105ec3be516}
+      \strng{authornamehash}{a0509674ff2cf6f9f3cb4105ec3be516}
+      \strng{authorfullhash}{a0509674ff2cf6f9f3cb4105ec3be516}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://github.com/BaldPolnareff/Relazione-Materiali}}
+      \field{title}{Repository relazione di Materiali per Applicazioni Aerospaziali}
     \endentry
     \entry{turbine_blade}{misc}{}
       \name{author}{1}{}{%
