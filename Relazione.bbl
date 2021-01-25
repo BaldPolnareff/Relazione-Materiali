@@ -19,6 +19,30 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{Co_Ni_EBM}{article}{}
+      \name{author}{1}{}{%
+        {{hash=bd44ebcad90be9af4a8d7ec146e598ce}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           given={Murray;\bibnamedelimb S.P.;\bibnamedelimb Pusch;\bibnamedelimb K.M.;\bibnamedelimb Polonsky;\bibnamedelima A.T.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim A\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{bd44ebcad90be9af4a8d7ec146e598ce}
+      \strng{fullhash}{bd44ebcad90be9af4a8d7ec146e598ce}
+      \strng{bibnamehash}{bd44ebcad90be9af4a8d7ec146e598ce}
+      \strng{authorbibnamehash}{bd44ebcad90be9af4a8d7ec146e598ce}
+      \strng{authornamehash}{bd44ebcad90be9af4a8d7ec146e598ce}
+      \strng{authorfullhash}{bd44ebcad90be9af4a8d7ec146e598ce}
+      \field{sortinit}{a}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{NATURE COMMUNICATIONS}
+      \field{title}{A defect-resistant Co–Ni superalloy for 3D printing}
+      \field{year}{2020}
+    \endentry
     \entry{Octave}{misc}{}
       \name{author}{2}{}{%
         {{hash=a789af59278b89f0b2c01d3480e87176}{%
@@ -120,6 +144,28 @@
       \field{labeltitlesource}{title}
       \field{title}{Introduction to Aerospace Materials}
       \field{year}{2012}
+    \endentry
+    \entry{Latvian_additive}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6075482280405c6b60fdf2fe536cc7c9}{%
+           family={Ozolins},
+           familyi={O\bibinitperiod},
+           given={A.\bibnamedelimi Vevers;\bibnamedelimb A.\bibnamedelimi Kromanis;\bibnamedelimb E.\bibnamedelimi Gerins;\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim V\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{6075482280405c6b60fdf2fe536cc7c9}
+      \strng{fullhash}{6075482280405c6b60fdf2fe536cc7c9}
+      \strng{bibnamehash}{6075482280405c6b60fdf2fe536cc7c9}
+      \strng{authorbibnamehash}{6075482280405c6b60fdf2fe536cc7c9}
+      \strng{authornamehash}{6075482280405c6b60fdf2fe536cc7c9}
+      \strng{authorfullhash}{6075482280405c6b60fdf2fe536cc7c9}
+      \field{sortinit}{O}
+      \field{sortinithash}{ff8d4eeb5101e3cf3809959b3592d942}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{LATVIAN JOURNAL OF PHYSICS AND TECHNICAL SCIENCES}
+      \field{title}{ADDITIVE MANUFACTURING AND CASTING TECHNOLOGY COMPARISON: MECHANICAL PROPERTIES, PRODUCTIVITY AND COST BENCHMARK}
+      \field{year}{2018}
     \endentry
     \entry{Inkscape}{misc}{}
       \name{author}{1}{}{%

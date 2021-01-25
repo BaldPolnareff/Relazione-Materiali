@@ -167,10 +167,20 @@
     nella produzione di palette, in cui sono presenti svergolature studiate ad hoc, 
     oltre alla frequente necessitá di renderle cave per un eventuale raffreddamento attivo.
 
-    Tipicamente, per le palette in superleghe di Nickel, si utilizza la manufattura additiva
-    a letto di polvere con \textit{EBM} (Electron Beam Melting). \\ 
+    Tipicamente, per le palette in superleghe, si utilizzano il 
+    \textit{Selective Laser Melting} e l'\textit{Electron Beam Melting}.
+    
+    In particolare, la seconda tecnica presenta una maggiore efficienza, nonché un rateo
+    produttivo superiore e una maggiore affinitá con metalli molto
+    riflettivi, difficilmente lavorabili
+    in SLM.
+    
+    Tale rateo produttivo, specialmente se si considera il miglioramento della tecnologia
+    negli anni, puó compensare l'esorbitante costo iniziale dei macchinari EBM, che devono operare in vacuum
+    e garantire una schermatura esterna dai raggi X potenzialmente prodotti, aumentando
+    notevolmente la complessitá del processo e la manutenzione che ne deriva. \\ 
 
-    Tuttavia, per seguire il workflow proposto dal database di \textit{Granta}, si é optato
+    Nonostante le potenzialitá dell'AM, per seguire un workflow compatibile col database di \textit{Granta}, si é optato
     per un altro processo produttivo piú tradizionale, il \textit{casting}. 
 
     \begin{figure}[h!]
@@ -182,17 +192,45 @@
 
 
     Tra i metodi tradizionali, questa tecnica produttiva, che consiste nella solidificazione di metallo fuso
-    in uno stampo dalla geometria prossima a quella desiderata, si é negli ultimi anni notevolmente evoluta
+    in uno stampo dalla geometria prossima a quella desiderata, si é notevolmente evoluta negli ultimi anni,
     al punto da essere il gold standard nella
     produzione di parti in superleghe di Nickel ad alte prestazioni, con tecniche avanzate come il casting con
-    gas a bassa pressione o l' \textit{investment casting}, scelta definitiva per la manufattura del componente. 
+    gas a bassa pressione o l' \textit{investment casting} in vacuum, scelta definitiva per la manufattura del componente. 
 
-    Altri processi quali ad esempio il casting in lingotti, con successiva forgiatura o estrusione, se applicati a queste superleghe,
-    portano troppo spesso a cricche e danni irreversibili durante la lavorazione \autocite{Mouritz}.
+    Altri processi quali ad esempio il casting in lingotti, con successiva forgiatura o estrusione,
+    portano troppo spesso a cricche e danni irreversibili durante la lavorazione, se applicati a queste superleghe \autocite{Mouritz}.
 
     Inoltre, seppur non sempre al livello della manufattura additiva, l'\textit{investment casting} consente comunque un minor spreco 
     di materiale, dato che le operazioni di natura strettamente sottrattiva sono limitate ad un'inevitabile
-    rifinitura del componente estratto dallo stampo. 
+    rifinitura del componente estratto dallo stampo. \\ 
+
+    Un altro vantaggio dell'\textit{investment casting}, decisivo nella scelta del processo
+    produttivo (al momento della stesura di questa relazione), é il minor costo complessivo a fronte
+    di un rateo di produzione molto alto. 
+
+    Attualmente, infatti, la manufattura additiva é praticamente d'obbligo per geometrie estremamente complesse, 
+    per le quali altri metodi sono inutilizzabili o troppo onerosi in termini di complessitá di progetto e di  
+    di costi produttivi; inoltre, l'AM ha un notevole vantaggio economico nell'abbattimento iniziale dei costi.
+
+    Tuttavia, allo stato attuale della tecnologia, la geometria di una paletta di turbina é realizzabile tramite
+    \textit{investment casting}, che garantisce allo stesso tempo un abbattimento dei costi in una produzione
+    su larga scala, come giá accennato.\\ 
+
+    É peró doveroso far presente che, in un futuro sicuramente non molto lontano, i costi e la velocitá di manufattura
+    dell'additive manufacturing su produzioni di massa saranno in grado di soppiantare definitivamente metodi piú tradizionali,
+    anche in virtú del fatto che i brevetti su questa tecnologia sono scaduti nel 2016 \autocite{Latvian_additive}. 
+    Molti gruppi di ricerca e grosse aziende del settore aerospaziale
+    stanno infatti investendo continuamente sulla manufattura additiva,
+    aprendo le porte anche a nuovi materiali e geometrie cave estremamente complesse, 
+    generate automaticamente da calcoli strutturali con algoritmi di intelligenza artificiale, 
+    con lo scopo di migliorare le prestazioni abbattendo allo stesso
+    tempo la quantitá di materiale utlizzato e 
+    cercando di rimpiazzare definitivamente il workflow della classica progettazione CAD, 
+    intrinsecamente legata a processi di natura sottrattiva. \\ 
+
+    Ulteriori considerazioni in merito all'AM sono presenti nella sezione \ref{conclusioni}.
+
+
 
     
 
@@ -377,6 +415,8 @@
 
 
     \section{Conclusioni\label{conclusioni}}
+
+    \autocite{Co_Ni_EBM}
 
     \clearpage
 

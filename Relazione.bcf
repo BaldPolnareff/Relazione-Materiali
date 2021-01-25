@@ -2191,12 +2191,14 @@
     <bcf:citekey order="7">Mouritz</bcf:citekey>
     <bcf:citekey order="8">Inkscape</bcf:citekey>
     <bcf:citekey order="9">Mouritz</bcf:citekey>
-    <bcf:citekey order="10">Inkscape</bcf:citekey>
+    <bcf:citekey order="10">Latvian_additive</bcf:citekey>
     <bcf:citekey order="11">Inkscape</bcf:citekey>
-    <bcf:citekey order="12">SciencePubGroup</bcf:citekey>
+    <bcf:citekey order="12">Inkscape</bcf:citekey>
     <bcf:citekey order="13">SciencePubGroup</bcf:citekey>
-    <bcf:citekey order="14">Octave</bcf:citekey>
-    <bcf:citekey order="15">Relazione_materiali</bcf:citekey>
+    <bcf:citekey order="14">SciencePubGroup</bcf:citekey>
+    <bcf:citekey order="15">Octave</bcf:citekey>
+    <bcf:citekey order="16">Relazione_materiali</bcf:citekey>
+    <bcf:citekey order="17">Co_Ni_EBM</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">
