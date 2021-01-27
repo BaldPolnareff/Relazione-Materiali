@@ -1,17 +1,17 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \contentsline {section}{\numberline {1}Introduzione}{3}{section.1}%
-\contentsline {section}{\numberline {2}Superleghe nei motori aeronautici}{5}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Composizione delle superleghe di Nickel}{6}{subsection.2.1}%
-\contentsline {section}{\numberline {3}Processo Produttivo: Casting}{7}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Solidificazione}{9}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Struttura}{10}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1}Zone fredde, colonnari e centrali}{10}{subsubsection.3.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.2}Affinamento dei grani}{11}{subsubsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.3}Difetti}{12}{subsection.3.3}%
-\contentsline {subsubsection}{\numberline {3.3.1}Porositá e ritiro}{13}{subsubsection.3.3.1}%
-\contentsline {subsubsection}{\numberline {3.3.2}Inclusioni}{14}{subsubsection.3.3.2}%
-\contentsline {subsubsection}{\numberline {3.3.3}Segregazione degli elementi di lega}{15}{subsubsection.3.3.3}%
-\contentsline {subsection}{\numberline {3.4}Microfusione}{16}{subsection.3.4}%
-\contentsline {section}{\numberline {4}Funzioni, obiettivi, vincoli}{17}{section.4}%
-\contentsline {section}{\numberline {5}Indici di merito}{18}{section.5}%
-\contentsline {section}{\numberline {6}Conclusioni}{21}{section.6}%
+\contentsline {section}{\numberline {2}Funzioni, obiettivi, vincoli}{5}{section.2}%
+\contentsline {section}{\numberline {3}Superleghe nei motori aeronautici}{7}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Composizione delle superleghe di Nickel}{8}{subsection.3.1}%
+\contentsline {section}{\numberline {4}Processo Produttivo: Casting}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Solidificazione}{11}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Struttura}{12}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Zone fredde, colonnari e centrali}{12}{subsubsection.4.2.1}%
+\contentsline {subsubsection}{\numberline {4.2.2}Affinamento dei grani}{13}{subsubsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.3}Difetti}{14}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}Porositá e ritiro}{15}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2}Inclusioni}{16}{subsubsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.3}Segregazione degli elementi di lega}{17}{subsubsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.4}Microfusione}{18}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Indici di merito}{19}{section.5}%
+\contentsline {section}{\numberline {6}Conclusioni}{22}{section.6}%

@@ -2186,19 +2186,23 @@
     <bcf:citekey order="2">Aircr_engine_design</bcf:citekey>
     <bcf:citekey order="3">SciencePubGroup</bcf:citekey>
     <bcf:citekey order="4">turbine_blade</bcf:citekey>
-    <bcf:citekey order="5">Inkscape</bcf:citekey>
-    <bcf:citekey order="6">Mouritz</bcf:citekey>
-    <bcf:citekey order="7">Mouritz</bcf:citekey>
+    <bcf:citekey order="5">turbine_blade</bcf:citekey>
+    <bcf:citekey order="6">EASA_environ_report_2019</bcf:citekey>
+    <bcf:citekey order="7">IATA_aircraft_decomm</bcf:citekey>
     <bcf:citekey order="8">Inkscape</bcf:citekey>
     <bcf:citekey order="9">Mouritz</bcf:citekey>
-    <bcf:citekey order="10">Latvian_additive</bcf:citekey>
+    <bcf:citekey order="10">Mouritz</bcf:citekey>
     <bcf:citekey order="11">Inkscape</bcf:citekey>
-    <bcf:citekey order="12">Inkscape</bcf:citekey>
-    <bcf:citekey order="13">SciencePubGroup</bcf:citekey>
-    <bcf:citekey order="14">SciencePubGroup</bcf:citekey>
-    <bcf:citekey order="15">Octave</bcf:citekey>
-    <bcf:citekey order="16">Relazione_materiali</bcf:citekey>
-    <bcf:citekey order="17">Co_Ni_EBM</bcf:citekey>
+    <bcf:citekey order="12">Mouritz</bcf:citekey>
+    <bcf:citekey order="13">Latvian_additive</bcf:citekey>
+    <bcf:citekey order="14">Inkscape</bcf:citekey>
+    <bcf:citekey order="15">EASA_environ_report_2019</bcf:citekey>
+    <bcf:citekey order="16">Inkscape</bcf:citekey>
+    <bcf:citekey order="17">SciencePubGroup</bcf:citekey>
+    <bcf:citekey order="18">SciencePubGroup</bcf:citekey>
+    <bcf:citekey order="19">Octave</bcf:citekey>
+    <bcf:citekey order="20">Relazione_materiali</bcf:citekey>
+    <bcf:citekey order="21">Co_Ni_EBM</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

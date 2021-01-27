@@ -1,0 +1,141 @@
+﻿Nickel-Co-Cr alloy, MAR-M 432, as cast
+General information
+Designation
+Nickel-Co-Cr alloy, MAR-M 432, as cast
+Condition	As cast
+Typical uses
+Integrally cast turbine wheels, jet engine components, e.g. turbine blades
+Composition overview
+Compositional summary
+Ni50 / Co20 / Cr16 / Ti4.3 / W3 / Al2.8 / Nb2 / Ta2 / B0.015
+Material family	Metal (non-ferrous)
+Base material	Ni (Nickel)
+Composition detail (metals, ceramics and glasses)
+Al (aluminum)		2,8			%
+B (boron)		0,015			%
+Co (cobalt)		20			%
+Cr (chromium)		15,5			%
+Nb (niobium)		2			%
+Ni (nickel)		50,3			%
+Ta (tantalum)		2			%
+Ti (titanium)		4,3			%
+W (tungsten)		3			%
+Price
+Price	*	31,8	-	42,4	EUR/kg
+Price per unit volume	*	2,56e5	-	3,5e5	EUR/m^3
+Physical properties
+Density		8,05e3	-	8,25e3	kg/m^3
+Mechanical properties
+Young's modulus		195	-	210	GPa
+Specific stiffness		23,9	-	25,8	MN.m/kg
+Yield strength (elastic limit)		960	-	1,18e3	MPa
+Tensile strength		1,12e3	-	1,37e3	MPa
+Specific strength		118	-	145	kN.m/kg
+Elongation		3	-	9	% strain
+Compressive strength	*	960	-	1,18e3	MPa
+Flexural modulus	*	195	-	210	GPa
+Flexural strength (modulus of rupture)	*	960	-	1,18e3	MPa
+Shear modulus	*	75	-	85	GPa
+Bulk modulus	*	140	-	175	GPa
+Poisson's ratio	*	0,27	-	0,3	
+Shape factor		16	
+Hardness - Vickers		410	-	500	HV
+Elastic stored energy (springs)		2,29e3	-	3,42e3	kJ/m^3
+Fatigue strength at 10^7 cycles	*	445	-	685	MPa
+Fatigue strength model (stress amplitude)	*	417	-	731	MPa
+Parameters: Stress Ratio = -1, Number of Cycles = 1e7cycles
+
+Impact & fracture properties
+Fracture toughness	*	35,9	-	39,8	MPa.m^0.5
+Toughness (G)		6,34	-	7,87	kJ/m^2
+Thermal properties
+Melting point	*	1,2e3	-	1,38e3	°C
+Maximum service temperature	*	797	-	1,1e3	°C
+Minimum service temperature		-273			°C
+Thermal conductivity	*	9	-	12	W/m.°C
+Specific heat capacity	*	420	-	480	J/kg.°C
+Thermal expansion coefficient		11	-	14	µstrain/°C
+Thermal shock resistance		362	-	497	°C
+Thermal distortion resistance	*	0,697	-	1,01	MW/m
+Latent heat of fusion	*	280	-	320	kJ/kg
+Electrical properties
+Electrical resistivity	*	130	-	200	µohm.cm
+Electrical conductivity		0,862	-	1,33	%IACS
+Galvanic potential	*	-0,12	-	-0,04	V
+Magnetic properties
+Magnetic type	Non-magnetic
+Optical, aesthetic and acoustic properties
+Transparency	Opaque
+Acoustic velocity		4,89e3	-	5,08e3	m/s
+Mechanical loss coefficient (tan delta)	*	1e-4	-	3e-4	
+Critical materials risk
+Contains >5wt% critical elements?	Yes
+Processing properties
+Metal casting	Acceptable
+Metal cold forming	Unsuitable
+Metal hot forming	Unsuitable
+Metal press forming	Unsuitable
+Metal deep drawing	Unsuitable
+Machining speed		2,44			m/min
+Weldability	Poor
+    Notes	Preheating is not required, post weld heat treatment is required
+Durability
+Water (fresh)	Excellent
+Water (salt)	Excellent
+Weak acids	Excellent
+Strong acids	Acceptable
+Weak alkalis	Excellent
+Strong alkalis	Excellent
+Organic solvents	Excellent
+Oxidation at 500C	Excellent
+UV radiation (sunlight)	Excellent
+Galling resistance (adhesive wear)	Acceptable
+    Notes
+        Bronze or zinc alloy dies should be used to minimize galling.
+Flammability	Non-flammable
+Corrosion resistance of metals
+Stress corrosion cracking	Not susceptible
+    Notes	Rated in chloride; Other susceptible environments: Hydroxide
+Primary production energy, CO2 and water
+Embodied energy, primary production	*	354	-	391	MJ/kg
+CO2 footprint, primary production	*	20,5	-	22,6	kg/kg
+Water usage	*	351	-	388	l/kg
+Processing energy, CO2 footprint & water
+Casting energy	*	10,2	-	11,3	MJ/kg
+Casting CO2	*	0,769	-	0,85	kg/kg
+Casting water	*	19,4	-	29,1	l/kg
+Vaporization energy	*	1,19e4	-	1,32e4	MJ/kg
+Vaporization CO2	*	896	-	990	kg/kg
+Vaporization water	*	4,98e3	-	7,47e3	l/kg
+Coarse machining energy (per unit wt removed)	*	1,72	-	1,9	MJ/kg
+Coarse machining CO2 (per unit wt removed)	*	0,129	-	0,142	kg/kg
+Fine machining energy (per unit wt removed)	*	12,9	-	14,2	MJ/kg
+Fine machining CO2 (per unit wt removed)	*	0,966	-	1,07	kg/kg
+Grinding energy (per unit wt removed)	*	25,3	-	28	MJ/kg
+Grinding CO2 (per unit wt removed)	*	1,9	-	2,1	kg/kg
+Non-conventional machining energy (per unit wt removed)	*	119	-	132	MJ/kg
+Non-conventional machining CO2 (per unit wt removed)	*	8,96	-	9,9	kg/kg
+Recycling and end of life
+Recycle	True
+Embodied energy, recycling	*	51,9	-	57,4	MJ/kg
+CO2 footprint, recycling	*	4,08	-	4,5	kg/kg
+Recycle fraction in current supply		28,9	-	31,9	%
+Downcycle	True
+Combust for energy recovery	False
+Landfill	False
+Biodegrade	False
+Notes
+Warning
+All nickel compounds should be regarded as toxic.  Some can cause cancer and/or fetal abnormalities.
+Other notes
+MAR-M is a registered trademark of Martin Marietta Corporation, which merged with Lockheed in 1995 to create the Lockheed Martin Corporation.
+Standards with similar compositions
+• Tradenames:
+MAR-M ALLOY 432
+Links
+ProcessUniverse
+Producers
+Reference
+Shape
+Values marked * are estimates.
+ANSYS Granta provides no warranty for this data.

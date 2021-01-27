@@ -79,6 +79,90 @@
 
 
 
+
+
+    \section{Funzioni, obiettivi, vincoli\label{Funzioni_ob_vinc}}
+
+    Utilizzando lo sconfinato database interattivo fornito dal software \textit{Granta EduPack}
+    ed includendovi inizialmente tutti i materiali del terzo livello, sono stati imposti dei vincoli 
+    tali da soddisfare diversi obiettivi molto stringenti, sorti dalla necessitá di costruire un componente
+    in grado di operare in un ambiente cosí ostile, come descritto nelle sezioni \ref{Intro} e \ref{superleghe_mot_aer} e riassunto nella
+    tabella (\ref{tab:funz_ob_vinc}).
+    
+        \begin{table}[h!]
+        \centering
+        \begin{tabular}{@{}c|c@{}}
+        \toprule
+        \textbf{Funzioni} &
+          Produzione di palette per stadi di turbina HP \\ \midrule
+        \textbf{Obiettivi} &
+          \begin{tabular}[c]{@{}c@{}}Resistenza prolungata ad elevatissime temperature di esercizio\\ Ottima resistenza a frattura\\ Ottima resistenza a fatica\\ Ottima resistenza all'aggressivitá chimica ad alta temperatura\\ Produzione di massa\\ Sostenibilitá ambientale\end{tabular} \\ \midrule
+        \textbf{Vincoli} &
+          \begin{tabular}[c]{@{}c@{}}$ T_{max} \ \approx 1100 \  _{}^{\circ}\textrm{C}$ \\ $ K_{1c} > 30 \ MPa \cdot m^{0.5}$ \\ $ \sigma_e > 360 \  MPa$ \\ Resistenza all'ossidazione: ottima\\ Processo produttivo: investment casting\\ Percentuale di materiale riciclabile: fino al 30\%\end{tabular} \\ \bottomrule
+        \end{tabular}
+        \caption{Funzioni, obiettivi e vincoli di progetto}
+        \label{tab:funz_ob_vinc}
+        \end{table}
+    
+    Come giá detto nelle sezione \ref{Intro}, l'ambiente estremamente ostile necessita l'imposizione di vincoli molto 
+    rigidi, a partire dalla temperatura di esercizio e dalla resistenza all'ossidazione, fino a vincoli di natura
+    meccanica.
+
+    In particolare, ci si é focalizzati sulla \textit{fracture toughness} e sulla \textit{resist fatigue} che, 
+    come verrá approfondito in sezione \ref{material_index}, sono poi le due grandezze scelte per valutare le performance
+    tramite indici di merito.
+
+    La \textit{fracture toughness} é un parametro estremamente importante, in quanto consente di valutare in maniera quantitativa
+    la resistenza alla di propagazione di una cricca. 
+    
+    Nel caso in cui una cricca dovesse verificarsi e superare una certa dimensione critica, una corretta valutazione
+    di questo requisito ne impedisce la propagazione repentina, col rischio di failure incontenibile.
+
+    A questa grandezza é inevitabilmente legata la \textit{resist fatigue}. Tali cricche sono infatti generate da carichi ciclici,
+    spesso di magnitudine decisamente inferiore alla \textit{ultimate tensile strength} del materiale, per cui un'elevata
+    resistenza a fatica é di vitale importanza per componenti soggetti a vibrazioni e sollecitazioni cicliche prolungate.
+
+    Dato che giá preeliminarmente il database ha scartato materiali non appartenenti alla famiglia delle leghe, é stato imposto
+    un ulteriore vincolo sul processo produttivo. Si é optato per l'\textit{investment casting} piuttosto che per 
+    l'\textit{additive manufacturing} (approfondimento in sezione \ref{Casting}), per favorire un rateo di produzione molto elevato, che possa col tempo ammortizzare
+    gli enormi investimenti iniziali che questa scelta comporta.
+
+    Seppur non al livello dell'AM, questo processo produttivo comporta un ridotto spreco di materiale
+    rispetto ad altre tecniche sottrattive. 
+
+    Oltre a rappresentare un potenziale risparmio economico, la riduzione di materiale sprecato é un obiettivo
+    chiave (tra i tanti) per la sostenibilitá ambientale, verso cui anche le aziende aerospaziali stanno 
+    adottando e intensamente pianificando un approccio piú sostenibile per il futuro, in virtú di motivazioni etiche
+    e anche delle normative in merito, con gli anni sempre piú severe ed esigenti.
+
+    Alla luce di queste considerazioni e di quanto visto in risorse come l'\textit{European Aviation Environmental Report} (2019)
+    di \textit{EASA} \autocite{EASA_environ_report_2019} o in \textit{Best Industry Practices for Aircraft Decommissioning (BIPAD)}
+    dell'\textit{IATA} \autocite{IATA_aircraft_decomm}, si é deciso di imporre come requisito di progetto 
+    una percentuale di riciclabilitá del 30\%, per il materiale target.
+
+    \begin{figure}[h!]
+        \centering
+        \phantomsection
+        \label{fig:fatigue_vs_density}
+        \includegraphics[width=0.70\textwidth]{fatigue.eps} 
+        \caption{Fatigue vs Density}       
+    \end{figure}
+
+    \begin{figure}[h!]
+        \centering
+        \phantomsection
+        \label{fig:fatigue_vs_density}
+        \includegraphics[width=0.68\textwidth]{fracture_toughness.eps} 
+        \caption{Fracture Toughness vs Density}       
+    \end{figure}
+
+    Come si puó notare, i vincoli imposti hanno messo in evidenza tre potenziali materiali candidati, appartenenti
+    alla famiglia delle superleghe di nickel (approfondimento in sezione \ref{superleghe_mot_aer}).
+
+
+
+    \clearpage 
+
     \section{Superleghe nei motori aeronautici\label{superleghe_mot_aer}}
   
     L'evoluzione esponenziale del settore aerospaziale e di tutte le discipline satelliti, 
@@ -152,10 +236,13 @@
             \caption{Funzione degli elementi alliganti \autocite{Mouritz}}
             \label{tab:funz_alliganti}
             \end{table}
-            
+        
+        Nello specifico, le tre superleghe estrapolate dal database, sono le seguenti:
+        \textit{MAR-M 432, IN-162 e MAR-M 421}.
+
+        Ulteriori criteri di selezione progettuale sono applicati in sezione \ref{material_index}.
 
     \clearpage
-
 
     \section{Processo Produttivo: Casting\label{Casting}}
 
@@ -284,11 +371,6 @@
 
         \clearpage
 
-    \section{Funzioni, obiettivi, vincoli\label{Funzioni_ob_vinc}}
-
-
-    \clearpage 
-
 
     \section{Indici di merito\label{material_index}}
 
@@ -300,7 +382,7 @@
 
         Possono quindi tornare molto utili alcuni indici di merito, dato che devono essere garantiti una elevata temperatura di esercizio, un basso coefficiente di espansione termica, un’alta fracture toughness, un’alta resistenza a fatica, un elevato modulo elastico, un’alta frequenza naturale di risonanza, oltre che un’ottima resistenza all’aggressivitá chimica dell’ambiente operativo. 
         
-        Tutti i possibili indici di merito di un materiale sono spesso definiti in funzione della densitá, specialmente in campo aerospaziale, in cui l’ottimizzazione del peso di ogni componente risulta fondamentale, tra le svariate motivazioni, per massimizzare l’efficienza propulsiva, riducendo quindi la spesa sul carburante, che ha un impatto sostanziale sui costi complessivi di un velivolo.
+        Tutti i possibili indici di merito di un materiale sono spesso definiti in funzione della densitá, specialmente in campo aerospaziale, in cui l’ottimizzazione del peso di ogni componente risulta fondamentale, tra le svariate motivazioni, per massimizzare l’efficienza propulsiva, riducendo quindi la spesa sul carburante, che ha un impatto sostanziale sui costi complessivi di un velivolo e sulla sostenibilitá \autocite{EASA_environ_report_2019}.
         \\ \\ 
         In seguito alla promettente fase di preselezione sul database,
         superata da cinque materiali candidati, si é deciso di concentrarsi sugli indici relativi alla \textit{fracture toughness} e alla \textit{resist fatigue},
@@ -387,34 +469,34 @@
         a seconda delle prioritá di progetto.
 
         \begin{equation}
-            Materials = [MARM432, \ IN162, \ IN738C, \ IN738LC, \ MARM421] 
+            Materials = [MARM432, \ IN162, \ MARM421] 
             \phantomsection \label{vector:material_list}
         \end{equation}
 
         \begin{equation}
-            \vec{i}_{sigma} = [\textbf{0.0069325}, \ 0.0053870, \  0.0061420,
-             \ 0.0039815, \  0.0060681
+            \vec{i}_{sigma} = [\textbf{0.0069325}, \  0.0053870, \  0.0060681
             ]
             \phantomsection \label{vector:index_fatigue}
         \end{equation}
 
         \begin{equation}
-            \vec{i}_{K} = [0.00046442,\   0.00055294,\   0.00047407,\
-            \textbf{0.00057901},\   0.00039814]
+            \vec{i}_{K} = [0.00046442, \  \textbf{0.00055294}, \  0.00039814]
             \phantomsection \label{vector:index_frac_tough}
         \end{equation}
 
         Da (\ref{vector:material_list}), (\ref{vector:index_fatigue}) e (\ref{vector:index_frac_tough}) si evince come 
-        la lega \textit{MARM432} presenti la migliore resistenza a fatica per peso, permettendo, potenzialmente, 
+        la lega \textit{MARM432} presenti la migliore resistenza a fatica a paritá di peso, permettendo, potenzialmente, 
         una maggiore durata dell'operativitá del componente.
 
-        D'altro canto, si evince anche che la lega \textit{IN738LC}
+        D'altro canto, si evince anche che la lega \textit{IN162} ha una migliore fracture toughness a paritá di peso. 
 
         
         \clearpage
 
 
     \section{Conclusioni\label{conclusioni}}
+
+    É evidente come tra i tre candidati, 
 
     \autocite{Co_Ni_EBM}
 

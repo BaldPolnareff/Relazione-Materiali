@@ -43,6 +43,28 @@
       \field{title}{A defect-resistant Co–Ni superalloy for 3D printing}
       \field{year}{2020}
     \endentry
+    \entry{IATA_aircraft_decomm}{book}{}
+      \name{author}{1}{}{%
+        {{hash=769e3856ecff88d302c70166d7aa6d05}{%
+           family={Association},
+           familyi={A\bibinitperiod},
+           given={IATA\bibnamedelimb (International\bibnamedelimb Air\bibnamedelima Transport},
+           giveni={I\bibinitperiod\bibinitdelim (\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{769e3856ecff88d302c70166d7aa6d05}
+      \strng{fullhash}{769e3856ecff88d302c70166d7aa6d05}
+      \strng{bibnamehash}{769e3856ecff88d302c70166d7aa6d05}
+      \strng{authorbibnamehash}{769e3856ecff88d302c70166d7aa6d05}
+      \strng{authornamehash}{769e3856ecff88d302c70166d7aa6d05}
+      \strng{authorfullhash}{769e3856ecff88d302c70166d7aa6d05}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-92-9229-827-2}
+      \field{title}{Aircraft Decommissioning Workshop (BIPAD) 1st Edition}
+      \field{year}{2018}
+    \endentry
     \entry{Octave}{misc}{}
       \name{author}{2}{}{%
         {{hash=a789af59278b89f0b2c01d3480e87176}{%
@@ -69,6 +91,27 @@
       \field{howpublished}{\url{https://www.gnu.org/software/octave/index}}
       \field{title}{GNU Octave}
       \field{year}{2020}
+    \endentry
+    \entry{EASA_environ_report_2019}{report}{}
+      \name{author}{1}{}{%
+        {{hash=2ef9971a5032ec0956dbf0d8efeebeff}{%
+           family={EUROCONTROL},
+           familyi={E\bibinitperiod},
+           given={EASA;\bibnamedelimb European\bibnamedelimb Environment\bibnamedelima Agency;},
+           giveni={E\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{2ef9971a5032ec0956dbf0d8efeebeff}
+      \strng{fullhash}{2ef9971a5032ec0956dbf0d8efeebeff}
+      \strng{bibnamehash}{2ef9971a5032ec0956dbf0d8efeebeff}
+      \strng{authorbibnamehash}{2ef9971a5032ec0956dbf0d8efeebeff}
+      \strng{authornamehash}{2ef9971a5032ec0956dbf0d8efeebeff}
+      \strng{authorfullhash}{2ef9971a5032ec0956dbf0d8efeebeff}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{European Aviation Environmental Report}
+      \field{year}{2019}
     \endentry
     \entry{SciencePubGroup}{article}{}
       \name{author}{1}{}{%

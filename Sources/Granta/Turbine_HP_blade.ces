@@ -1,0 +1,428 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>cec73be3-1e86-4a54-af80-aef31275f4d2</ID>
+  <Version>6</Version>
+  <Name />
+  <Author>Administrator</Author>
+  <Company>1082836</Company>
+  <Notes />
+  <Template />
+  <PassNA>false</PassNA>
+  <FailEstimatedRecords>false</FailEstimatedRecords>
+  <ResultType>0</ResultType>
+  <ResultStage>-1</ResultStage>
+  <RankByType>0</RankByType>
+  <RankByStage>-1</RankByStage>
+  <RankByProperty />
+  <IndexRankColumn>0</IndexRankColumn>
+  <RankOrder>1</RankOrder>
+  <Database>
+    <Path>V:\Granta\2020\Database\Standard Level 3\data.gdb</Path>
+    <Name>Level 3</Name>
+    <Unit>Metric</Unit>
+    <UnitType>Relative</UnitType>
+    <Currency>EUR</Currency>
+    <SelectionTable>MaterialUniverse</SelectionTable>
+    <Tables>
+      <Table>
+        <TableName>MaterialUniverse</TableName>
+        <SubsetName>All materials</SubsetName>
+        <LayoutName>All attributes</LayoutName>
+        <CompareTable>
+          <Windowplacement />
+          <ZOrder>-1</ZOrder>
+          <ShowProjectData>false</ShowProjectData>
+          <ShowRanges>true</ShowRanges>
+          <ShowValues>true</ShowValues>
+          <PercentError>10</PercentError>
+        </CompareTable>
+        <UserDefinedNearnessSettings />
+        <Favourites />
+        <CompareRecords />
+        <RecordCustomLabels />
+        <UserRecords />
+      </Table>
+      <Table>
+        <TableName>ProcessUniverse</TableName>
+        <SubsetName>All processes</SubsetName>
+        <LayoutName>All processes</LayoutName>
+        <CompareTable>
+          <Windowplacement />
+          <ZOrder>-1</ZOrder>
+          <ShowProjectData>false</ShowProjectData>
+          <ShowRanges>true</ShowRanges>
+          <ShowValues>true</ShowValues>
+          <PercentError>10</PercentError>
+        </CompareTable>
+        <UserDefinedNearnessSettings />
+        <Favourites />
+        <CompareRecords />
+        <RecordCustomLabels />
+        <UserRecords />
+      </Table>
+      <Table>
+        <TableName>Producers</TableName>
+        <SubsetName>Producers</SubsetName>
+        <LayoutName>Producers</LayoutName>
+        <CompareTable>
+          <Windowplacement />
+          <ZOrder>-1</ZOrder>
+          <ShowProjectData>false</ShowProjectData>
+          <ShowRanges>true</ShowRanges>
+          <ShowValues>true</ShowValues>
+          <PercentError>10</PercentError>
+        </CompareTable>
+        <UserDefinedNearnessSettings />
+        <Favourites />
+        <CompareRecords />
+        <RecordCustomLabels />
+        <UserRecords />
+      </Table>
+      <Table>
+        <TableName>Reference</TableName>
+        <SubsetName>All references</SubsetName>
+        <LayoutName>All references</LayoutName>
+        <CompareTable>
+          <Windowplacement />
+          <ZOrder>-1</ZOrder>
+          <ShowProjectData>false</ShowProjectData>
+          <ShowRanges>true</ShowRanges>
+          <ShowValues>true</ShowValues>
+          <PercentError>10</PercentError>
+        </CompareTable>
+        <UserDefinedNearnessSettings />
+        <Favourites />
+        <CompareRecords />
+        <RecordCustomLabels />
+        <UserRecords />
+      </Table>
+      <Table>
+        <TableName>Shape</TableName>
+        <SubsetName>Shape class</SubsetName>
+        <LayoutName>Shape class</LayoutName>
+        <CompareTable>
+          <Windowplacement />
+          <ZOrder>-1</ZOrder>
+          <ShowProjectData>false</ShowProjectData>
+          <ShowRanges>true</ShowRanges>
+          <ShowValues>true</ShowValues>
+          <PercentError>10</PercentError>
+        </CompareTable>
+        <UserDefinedNearnessSettings />
+        <Favourites />
+        <CompareRecords />
+        <RecordCustomLabels />
+        <UserRecords />
+      </Table>
+      <Table>
+        <TableName>Structural Sections</TableName>
+        <SubsetName>All structural sections</SubsetName>
+        <LayoutName>All structural sections</LayoutName>
+        <CompareTable>
+          <Windowplacement />
+          <ZOrder>-1</ZOrder>
+          <ShowProjectData>false</ShowProjectData>
+          <ShowRanges>true</ShowRanges>
+          <ShowValues>true</ShowValues>
+          <PercentError>10</PercentError>
+        </CompareTable>
+        <UserDefinedNearnessSettings />
+        <Favourites />
+        <CompareRecords />
+        <RecordCustomLabels />
+        <UserRecords />
+      </Table>
+    </Tables>
+    <ParameterValues>
+      <ParameterValue>
+        <Name>Temperature</Name>
+        <Value>23</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Stress Ratio</Name>
+        <Value>-1</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Number of Cycles</Name>
+        <Value>10000000</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Component Length</Name>
+        <Value>1</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Load Factor</Name>
+        <Value>0.5</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Capital Write-off Time</Name>
+        <Value>5</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Overhead Rate</Name>
+        <Value>134.23281860351563</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Batch Size</Name>
+        <Value>1000</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Component Mass</Name>
+        <Value>1</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Material Cost</Name>
+        <Value>7.1590838432312012</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Discount Rate</Name>
+        <Value>5</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Strain</Name>
+        <Value>0.10000000149011612</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Magnetic field intensity</Name>
+        <Value>1000</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Flux density, B</Name>
+        <Value>0</Value>
+      </ParameterValue>
+      <ParameterValue>
+        <Name>Frequency</Name>
+        <Value>400</Value>
+      </ParameterValue>
+    </ParameterValues>
+  </Database>
+  <Stages>
+    <Stage xsi:type="LimitStageMemento">
+      <Name />
+      <Notes />
+      <Windowplacement>0,1,-1,-1,-12,-51,38,38,2278,1033</Windowplacement>
+      <ZOrder>0</ZOrder>
+      <SelectWholeRecords>false</SelectWholeRecords>
+      <Enabled>true</Enabled>
+      <PassNA>false</PassNA>
+      <Form>All attributes</Form>
+      <LimitValues>
+        <LimitValue xsi:type="LimitValueRangeMemento">
+          <Property>Fatigue strength at 10^7 cycles</Property>
+          <Low>360</Low>
+          <High xsi:nil="true" />
+        </LimitValue>
+        <LimitValue xsi:type="LimitValueRangeMemento">
+          <Property>Fracture toughness</Property>
+          <Low>30</Low>
+          <High xsi:nil="true" />
+        </LimitValue>
+        <LimitValue xsi:type="LimitValueRangeMemento">
+          <Property>Maximum service temperature</Property>
+          <Low>1100</Low>
+          <High xsi:nil="true" />
+        </LimitValue>
+        <LimitValue xsi:type="LimitValueDiscreteMemento">
+          <Property>Metal casting</Property>
+          <Values>
+            <string>Acceptable</string>
+          </Values>
+        </LimitValue>
+        <LimitValue xsi:type="LimitValueDiscreteMemento">
+          <Property>Oxidation at 500C</Property>
+          <Values>
+            <string>Excellent</string>
+          </Values>
+        </LimitValue>
+        <LimitValue xsi:type="LimitValueLogicalMemento">
+          <Property>Recycle</Property>
+          <Value>true</Value>
+        </LimitValue>
+        <LimitValue xsi:type="LimitValueRangeMemento">
+          <Property>Recycle fraction in current supply</Property>
+          <Low>30</Low>
+          <High xsi:nil="true" />
+        </LimitValue>
+      </LimitValues>
+    </Stage>
+    <Stage xsi:type="BubbleStageMemento">
+      <Name />
+      <Notes />
+      <Windowplacement>0,1,-1,-1,-1,-1,0,107,3211,1076</Windowplacement>
+      <ZOrder>2</ZOrder>
+      <SelectWholeRecords>false</SelectWholeRecords>
+      <Enabled>true</Enabled>
+      <PassNA>false</PassNA>
+      <HideFailedRecords>true</HideFailedRecords>
+      <ResultIntersection>true</ResultIntersection>
+      <ShowFavourites>false</ShowFavourites>
+      <ShowVirtualRecords>false</ShowVirtualRecords>
+      <ShowUserRecords>false</ShowUserRecords>
+      <ShowReferenceMaterial>false</ShowReferenceMaterial>
+      <FailEstimates>false</FailEstimates>
+      <xAxis>
+        <Name>Fracture toughness / Density</Name>
+        <FunctionObjective />
+        <Expression>[Fracture toughness] / [Density]</Expression>
+        <ExpressionType>1</ExpressionType>
+        <AbsoluteValues>true</AbsoluteValues>
+        <LogAxis>true</LogAxis>
+        <Low>0.0034553564427611846</Low>
+        <High>0.0063479009907974936</High>
+      </xAxis>
+      <yAxis>
+        <Name>Fatigue strength at 10^7 cycles / Density</Name>
+        <FunctionObjective />
+        <Expression>[Fatigue strength at 10^7 cycles] / [Density]</Expression>
+        <ExpressionType>1</ExpressionType>
+        <AbsoluteValues>true</AbsoluteValues>
+        <LogAxis>true</LogAxis>
+        <Low>0.041834744852052394</Low>
+        <High>0.0895848330324349</High>
+      </yAxis>
+      <Selections />
+      <Labels>
+        <Label>
+          <Text>Metals and alloys</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Arial</FaceName>
+          <PointSize>140</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>0.003774699093842062</XPos>
+          <YPos>0.073783020678055034</YPos>
+          <InitialXPos>0.003774699093842062</InitialXPos>
+          <InitialYPos>0.073783020678055034</InitialYPos>
+          <RecordGruid>1590</RecordGruid>
+          <Bar xsi:nil="true" />
+        </Label>
+        <Label>
+          <Text>Nickel-Co-Cr alloy, MAR-M 432, as cast</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Arial</FaceName>
+          <PointSize>100</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>0.00480535345416701</XPos>
+          <YPos>0.071380286214054831</YPos>
+          <InitialXPos>0</InitialXPos>
+          <InitialYPos>0</InitialYPos>
+          <RecordGruid>2972</RecordGruid>
+          <Bar xsi:nil="true" />
+        </Label>
+      </Labels>
+      <Curves />
+      <ShowEnvelopes>true</ShowEnvelopes>
+    </Stage>
+    <Stage xsi:type="BubbleStageMemento">
+      <Name />
+      <Notes />
+      <Windowplacement>0,1,-1,-1,-1,-1,0,107,2531,1076</Windowplacement>
+      <ZOrder>3</ZOrder>
+      <SelectWholeRecords>false</SelectWholeRecords>
+      <Enabled>true</Enabled>
+      <PassNA>false</PassNA>
+      <HideFailedRecords>false</HideFailedRecords>
+      <ResultIntersection>true</ResultIntersection>
+      <ShowFavourites>false</ShowFavourites>
+      <ShowVirtualRecords>false</ShowVirtualRecords>
+      <ShowUserRecords>false</ShowUserRecords>
+      <ShowReferenceMaterial>false</ShowReferenceMaterial>
+      <FailEstimates>false</FailEstimates>
+      <xAxis>
+        <Name>Density (kg/m^3)</Name>
+        <FunctionObjective />
+        <Expression>[Density]</Expression>
+        <ExpressionType>1</ExpressionType>
+        <AbsoluteValues>true</AbsoluteValues>
+        <LogAxis>true</LogAxis>
+        <Low>5462.5973098784052</Low>
+        <High>16598.579373855508</High>
+      </xAxis>
+      <yAxis>
+        <Name>Fatigue strength at 10^7 cycles (MPa)</Name>
+        <FunctionObjective />
+        <Expression>[Fatigue strength at 10^7 cycles]</Expression>
+        <ExpressionType>1</ExpressionType>
+        <AbsoluteValues>true</AbsoluteValues>
+        <LogAxis>true</LogAxis>
+        <Low>111.65577977966724</Low>
+        <High>1260.7152206963417</High>
+      </yAxis>
+      <Selections />
+      <Labels>
+        <Label>
+          <Text>Metals and alloys</Text>
+          <TextColor>#FF000000</TextColor>
+          <Border>false</Border>
+          <BorderColor>#FF000000</BorderColor>
+          <Fill>true</Fill>
+          <FillColor>#FFffffff</FillColor>
+          <RoundedCorners>false</RoundedCorners>
+          <FaceName>Arial</FaceName>
+          <PointSize>140</PointSize>
+          <Italic>false</Italic>
+          <Weight>400</Weight>
+          <XPos>8705.0958801323013</XPos>
+          <YPos>592.206630840363</YPos>
+          <InitialXPos>8243.4093439877033</InitialXPos>
+          <InitialYPos>681.92427568239168</InitialYPos>
+          <RecordGruid>1590</RecordGruid>
+          <Bar xsi:nil="true" />
+        </Label>
+      </Labels>
+      <Curves />
+      <ShowEnvelopes>false</ShowEnvelopes>
+    </Stage>
+    <Stage xsi:type="BubbleStageMemento">
+      <Name />
+      <Notes />
+      <Windowplacement>0,1,-1,-1,-1,-1,0,107,2531,1076</Windowplacement>
+      <ZOrder>4</ZOrder>
+      <SelectWholeRecords>false</SelectWholeRecords>
+      <Enabled>true</Enabled>
+      <PassNA>false</PassNA>
+      <HideFailedRecords>false</HideFailedRecords>
+      <ResultIntersection>true</ResultIntersection>
+      <ShowFavourites>false</ShowFavourites>
+      <ShowVirtualRecords>false</ShowVirtualRecords>
+      <ShowUserRecords>false</ShowUserRecords>
+      <ShowReferenceMaterial>false</ShowReferenceMaterial>
+      <FailEstimates>false</FailEstimates>
+      <xAxis>
+        <Name>Density (kg/m^3)</Name>
+        <FunctionObjective />
+        <Expression>[Density]</Expression>
+        <ExpressionType>1</ExpressionType>
+        <AbsoluteValues>true</AbsoluteValues>
+        <LogAxis>true</LogAxis>
+        <Low>5489.9119417028587</Low>
+        <High>11801.607902313777</High>
+      </xAxis>
+      <yAxis>
+        <Name>Fracture toughness (MPa.m^0.5)</Name>
+        <FunctionObjective />
+        <Expression>[Fracture toughness]</Expression>
+        <ExpressionType>1</ExpressionType>
+        <AbsoluteValues>true</AbsoluteValues>
+        <LogAxis>true</LogAxis>
+        <Low>10.103722974414623</Low>
+        <High>97.73188990255484</High>
+      </yAxis>
+      <Selections />
+      <Labels />
+      <Curves />
+      <ShowEnvelopes>false</ShowEnvelopes>
+    </Stage>
+  </Stages>
+</Project>
