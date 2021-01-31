@@ -325,7 +325,58 @@
 
         \subsection{Solidificazione\label{Casting_solid}}
 
+        Il principio alla base del casting é la solidificazione di un metallo fuso all'interno di uno
+        stampo, la cui geometria verrá trasferita al prodotto finale, una volta estratto.
+
+        Come per qualsiasi liquido, la condizione necessaria affinché
+        avvenga tale passaggio di stato é il raffreddamento al di sotto della temperatura di solidificazione, 
+        caratteristica di ogni materiale. 
         
+        Questa condizione non é peró sufficiente: é infatti possibile che un liquido mantenga il suo 
+        stato fisico per un tempo indefinito, anche molto al di sotto della temperatura di solidificazione, 
+        nel fenomeno noto come \textit{supercooling}.
+
+        Affinché avvenga la solidificazione, infatti, oltre al raggiungimento della temperatura target,
+        é necessario che avvenga il fenomeno di \textit{nucleazione}. 
+
+        Nel caso di un materiale puro (o molto vicino a tale condizione), nuclei identici, soggetti 
+        ad un moto relativo sempre piú lento col decrescere della temperatura,
+        cominciano a solidificare e a formare agglomerati cristallini di dimensione man mano crescente.
+
+        Finché questi raggruppamenti di particelle solide non raggiungono una \
+        \textit{dimensione critica}, in assenza di perturbazioni e di impuritá, i nuclei possono 
+        ritornare in soluzione liquida; é per questo motivo che si verifica il supercooling.
+
+        Una volta raggiunta tale dimensione critica, la solidificazione ha luogo per 
+        \textit{nucleazione omogenea}.  
+
+        Nel caso di materiali non puri, come ad esempio le leghe metalliche, il supercooling
+        non si verifica poiché il sistema é ricco di molecole di vari altri materiali e impuritá, 
+        che fungono da centro di nucleazione stabile. Anche le pareti di uno stampo, soprattutto 
+        al crescere della superficie esposta, forniscono dei centri di nucleazione stabili. 
+
+        Per questo motivo, nei materiali non puri avviene una \textit{nucleazione eterogenea}, 
+        fenomeno che si instaura stabilmente e si autosostiene non appena si scende al di sotto della temperatura di 
+        solidificazione \autocite{Mouritz}. \\ 
+
+        Tale processo puó tuttavia essere studiato e controllato industrialmente al fine di 
+        ottenere determinate proprietá meccaniche, fisiche e chimiche o anche estetiche nel prodotto finale, 
+        manipolando vari parametri come la velocitá di raffreddamento o l'inserimento di percentuali
+        variabili di elementi alliganti nelle leghe. 
+
+        Tutti questi procedimenti, oltre ad eventuali trattamenti termici successivi, influenzano le 
+        caratteristiche finali del prodotto, agendo sulla struttura cristallina del materiale e
+        a tale scopo, si fa riferimento ai \textit{diagrammi di fase}.
+
+            \begin{figure}[h!]
+                \centering
+                \phantomsection \label{fig:diagramma_fase}
+                \includegraphics[width=0.3\textwidth]{diagramma_fase.eps}
+                \caption{Diagramma di fase binario generico \autocite{phase_diagram_generic}}
+            \end{figure}
+        
+
+
 
 
         \clearpage
@@ -335,44 +386,210 @@
 
             \begin{figure}[h!]
                 \centering
-                \phantomsection \label{grain_casting}
+                \phantomsection \label{fig:grain_casting}
                 \includegraphics[width=\textwidth]{Sources/grain.eps}
                 \caption{Grani di un lingotto raffreddato \autocite{Inkscape}}
             \end{figure}
 
+
+            Considerando per semplicitá di esposizione lo stampo di un lingotto, in sezione si possono osservare
+            delle macroaree distinte con struttura del grano differente. 
+            
+            Per una data composizione di una lega, la geometria, la dimensione e la disposizione caratteristica di tali grani dipendono fortemente, come giá
+            accennato, dalla velocitá di raffreddamento, che a sua volta é influenzata dalla temperatura di colata, dalla forma 
+            macroscopica dello stampo e quindi dal volume di metallo liquido che puó ospitare.
+
+            Come si osserva in figura (\ref{fig:grain_casting}), le tre regioni distinte sono:
+
+                \begin{itemize}
+                    \item \textit{Zona fredda} \\ \\ 
+                        Questa regione é la prima a formarsi, per nucleazione
+                        eterogenea facilitata dal contatto con le pareti dello stampo, che oltretutto incrementano
+                        la velocitá di raffreddamento locale del metallo.
+
+                        I grani, che in questa zona si formano molto rapidamente, continuano ad incrementare
+                        la propria dimensione finché non vengono ostacolati e vincolati dalla presenza degli altri grani adiacenti. 
+
+                        Il grano si presenta dunque di forma irregolare ma non allungata e di dimensioni
+                        consistenti, ed é distribuito tipicamente nell'intorno
+                        delle pareti.
+
+                        Tuttavia, nel caso di una temperatura di colata troppo bassa, la macrosolidificazione del 
+                        lingotto avviene molto rapidamente, generando delle tensioni che fanno staccare i nuclei dalla 
+                        zona fredda, i quali si distribuiscono piú omogeneamente in tutto il restante metallo liquido, 
+                        fungendo a loro volta da centri di nucleazione e innestando un effetto a catena, che fa solidificare
+                        tutto il metallo con una distribuzione di grano complessivamente uguale a quella della zona fredda: non
+                        sono quindi apprezzabili altre zone distinte \autocite{Mouritz}.
+                    \item \textit{Zona colonnare} \\ \\ 
+                        Nella maggior parte dei casi, la temperatura di colata del casting viene mantenuta il piú elevata
+                        possibile.
+
+                        In seguito alla formazione della zona fredda, la zona colonnare inizia piú lentamente a formarsi a partire da essa.
+
+                        É caratterizzata da grani di forma aciculare, a sviluppo medio ortogonale rispetto alle pareti dello
+                        stampo e in direzione opposta al flusso di calore (dalle zone piú fredde a quelle piú calde);
+                        lo sviluppo segue inoltre la direzione energeticamente piú favorevole \autocite{Mouritz}.
+
+                    \item \textit{Zona centrale} \\ \\ 
+                        In alcuni casi, il metallo continua a solidificarsi seguendo lo sviluppo colonnare.
+
+                        Tuttavia, il piú delle volte, si sviluppa indipendentemente una zona centrale equiassiale,
+                        con grani relativamente piú tondeggianti rispetto alla zona fredda e di orientamento casuale.
+
+                        Questi grani bloccano la crescita della zona colonnare quando vi entrano in contatto.
+
+                        La prevalenza complessiva di zona centrale o di zona colonnare dipende dal gradiente termico tra l'interfaccia 
+                        solido-liquido, legato, oltre che al materiale stesso, anche alla forma dello stampo e al volume
+                        di liquido che quindi puó ospitare.
+
+                        Piú é basso il gradiente termico, piú viene favorito il sopravvento della zona equiassiale. Viceversa, 
+                        un forte gradiente termico fa prevalere la formazione di grani colonnari \autocite{Mouritz}.
+                \end{itemize}
+
             \clearpage 
 
-            \subsubsection{Affinamento dei grani\label{Casting_strutt_affinamento}}
-
-
-            \clearpage
 
 
         \subsection{Difetti\label{Casting_difetti}}
 
+        Nel settore aerospaziale, le normative in merito alla produzione di componenti per velivoli, in Europa
+        regolate dall'\textit{EASA}, prevedono controlli molto piú stringenti rispetto ad altri settori 
+        come quello automobilistico. 
 
-        \clearpage 
+        Molto spesso addirittura non si effettuano controlli a campione su un lotto di produzione, ma si 
+        procede al controllo per ogni singolo componente. 
+
+        In particolare, nel casting non devono essere presenti difetti che compromettano l'integritá
+        strutturale del componente, per cui si attuano controlli severi in merito alla porositá, al ritiro, 
+        alla presenza e distribuzione di inclusioni intermetalliche e alla segregazione di elementi di lega.
+ 
 
             \subsubsection{Porositá e ritiro\label{Casting_difetti_porosita}}
 
-            \clearpage 
+            La formazione di pori é dovuta alla presenza di gas rimasti intrappolati all'interno del materiale, 
+            durante la solidificazione.
+
+            Possono presentarsi pori di forma irregolare oppure \textit{wormholes}, ossia pori di forma tubolare, 
+            formati a causa dell'espansione forzata di bolle d'aria nella direzione del flusso di calore.
+            
+            Altre bolle d'aria possono formarsi a causa del ritiro del metallo durante la solidificazione.
+
+            In ogni caso, la porositá compromette l'integritá strutturale del componente. 
+            Si puó eliminare la porositá di un materiale sottoponendolo ad un trattamento termico noto come
+            \textit{Hot Isostatic Pressing}, che consiste nell'esposizione ad alta temperatura e alta pressione, 
+            in una camera con un gas inerte. 
+
+            Tale processo consente l'eliminazione di cavitá e microporositá attraverso l'effetto combinato 
+            di deformazione plastica, creep e diffusione allo stato solido, garantendo al componente, tra i vari benefici,
+            una maggiore \textit{resist fatigue} \autocite{Mouritz}.
+
 
             \subsubsection{Inclusioni\label{Casting_difetti_inclusioni}}
 
-            \clearpage 
+            Durante la solidificazione, a seconda delle condizioni di raffreddamento 
+             descritte 
+            dal diagramma di fase opportuno, si ottengono per precipitazione dei composti intermetallici, 
+            che formano delle inclusioni, spesso causa di frattura del componente.  
+
+            Infatti, tali inclusioni interagiscono con le dislocazioni e causano la crescita di microcavitá interne, 
+            che si uniscono in una cricca centrale, su un piano perpendicolare alla retta d'azione
+            del carico sollecitante. 
+
+            Durante questa fase, nei materiali come le leghe metalliche, si ha un accumulo di energia di 
+            deformazione plastica, fino al raggiungimento di una dimensione critica della macrocricca, oltre il quale
+            si verifica la frattura duttile. 
+
+            Proprio nel caso dei materiali duttili, lo stress che porta a rottura il materiale puó essere
+            sostanzialmente inferiore alla \textit{ultimate tensile strength}. Questo si rivela un problema 
+            anche su lunghe scale di tempo, in cui un componente é sottoposto a sollecitazioni cicliche di bassa
+            entitá, durante le quali avviene peró la propagazione di cricche, per le quali le inclusioni
+            fungono da punto di concentrazione di stress. 
+
+            Inoltre, le inclusioni presentano coefficienti di espansione termica considerevolmente differenti
+             da quelli del materiale
+            dominante, in quanto composti intermetallici. 
+
+            Questa differenza porta a ulteriori concentrazioni di stress localizzati nell'intorno
+            dell'inclusione.
+
+            É quindi fondamentale controllare il processo di solidificazione seguendo i diagrammi di fase, 
+            tenendo conto che la formazione di precipitati intermetallici é influenzata dalla velocitá
+            di raffreddamento ma anche dalla percentuale e dal tipo di elementi alliganti inclusi nella lega, 
+            che possono essere manipolati a seconda delle esigenze \autocite{Mouritz}. 
 
             \subsubsection{Segregazione degli elementi di lega\label{Casting_difetti_segregazione}}
+
+            La solidificazione di una lega metallica comporta inevitabilmente una distribuzione non esattamente 
+            omogenea degli elementi che la compongono, che possono quindi trovarsi segregati in zone di discontinuitá. \\ 
+
+            Tale fenomeno si puó manifestare come \textit{macrosegregazione} se coinvolge l'intero 
+            componente su larga scala ed é legato al gradiente termico tra zone superficiali e zone
+            centrali, per le quali si instaura un rateo di diffusione molto differente. 
+
+            Questo porta ad una forte anisotropia del componente, che presenta appunto proprietá 
+            fisiche variabili tra il centro e la superficie. \\ 
+
+            Se invece il fenomeno si manifesta su una scala inferiore alla dimensione media del grano, 
+            prende il nome di \textit{microsegregazione} ed é dovuto alla differenza di composizione locale
+            del nucleo dendritico, che é piú ricco di elementi alliganti al centro in cui comincia la nucleazione. \\ 
+
+            La segregazione puó essere mitigata o del tutto risolta attraverso trattamenti termici prolungati ad alta temperatura,
+            tipicamente poco sotto il punto di fusione. 
+
+            Le elevate temperature, se protratte per un tempo sufficientemente lungo, favoriscono la diffusione
+            molecolare, permettendo quindi ai vari elementi di distribuirsi in maniera piú omogenea nel componente \autocite{Mouritz}. 
+
+
     
             \clearpage
 
-        \subsection{Microfusione\label{Casting_microfusione}}
+        \subsection{Investment casting\label{Casting_investment}}
 
+        Come giá accennato all'inizio in sezione \ref{Casting}, esistono numerose tecniche 
+        appartenenti alla famiglia del casting, un processo produttivo giá utilizzato da millenni 
+        e dalle piú disparate civiltá. \\ 
+
+        Senz'ombra di dubbio, tra le notevoli evoluzioni di questa tecnica nel corso della storia, l'
+        \textit{investment casting} si presta in maniera eccezionale alla produzione di componenti
+        dalle geometrie complesse, con tolleranze piú strette e finiture superficiali molto fini, 
+        al punto da essere al momento il gold standard per la produzione di palette di turbina. \\
+
+        La tecnica prevede l'utilizzo di un modello sacrificale della geometria
+        finale, realizzato in un materiale a basso costo, come
+        una cera, una resina o una schiuma, attorno al quale viene poi formato il vero e proprio stampo, 
+        tipicamente in materiali refrattari in grado di ospitare il metallo fuso.
+
+        É sufficiente poi far sciogliere il modello iniziale per ottenere lo stampo entro cui 
+        viene versato il metallo \autocite{Mouritz}.
+
+        L'investment casting esiste sin dall'antichitá e al giorno d'oggi si realizza con
+        tecniche e macchinari molto piú sofisticati, che tipicamente rappresentano la barriera di costo
+        iniziale, da ammortizzare nel tempo con un alto rateo di produzione.  \\ 
+
+        Oltre al pouring per effetto della gravitá, nella 
+        produzione di componenti ad 
+        elevate prestazioni, si utilizzano tecniche piú avanzate come il 
+        \textit{vacuum casting}, in cui un vuoto risucchia nella cavitá
+        il materiale fuso, attraverso un condotto, in direzione opposta alla gravitá. 
+
+        Una volta solidificata la quantitá di materiale necessario attorno alle pareti,
+        viene rilasciato il vuoto, permettendo al metallo in eccesso di fluire via ed essere riutilizzato. \\ 
+
+
+        Attualmente, come giá ribadito piú volte, l'\textit{additive manufacturing} si sta rivelando
+        man mano sempre piú competitivo col casting, per quanto detto all'inizio in sezione \ref{Casting}. 
+
+        Ció non vuol dire che le due tecniche debbano necessariamente essere in antitesi l'una con l'altra, é 
+        infatti oggi molto comune utilizzare la manufattura additiva per produrre le componenti in resine 
+        destinate alla creazione degli stampi da investment casting, anche nello specifico per quanto riguarda la produzione
+        di palette. 
 
 
         \clearpage
 
 
     \section{Indici di merito\label{material_index}}
+
 
         Una buona strategia di analisi qualitativa per la selezione di materiali é rappresentata dalla valutazione di alcuni parametri frazionari, riferiti a una moltitudine di proprietá fisiche, chimiche, termiche, meccaniche, ecc, noti come indici di merito.
         
@@ -496,9 +713,65 @@
 
     \section{Conclusioni\label{conclusioni}}
 
-    É evidente come tra i tre candidati, 
+    \subsection{Scelta finale \label{scelta_finale}}
 
-    \autocite{Co_Ni_EBM}
+    É evidente come, tra i tre candidati, spicchino  in particolare \textit{MARM-432} e \textit{IN-162}, 
+    ognuno per due proprietá diverse, anche se é doveroso mettere in risalto che tutti e tre i materiali
+    non presentano differenze enormi nelle proprietá ritenute di interesse per questo progetto.
+    
+    Nel contesto di una produzione reale, potrebbero potenzialmente entrare in gioco altri fattori determinanti come
+    la disponibilitá sul mercato, contatti giá consolidati con fornitori che producono un materiale piuttosto 
+    che un altro, indici di costo (per quanto questi ultimi meno rilevanti nel settore aerospaziale), ecc. \\ 
+
+    In questo caso, la scelta finale é stata determinata da considerazioni puramente prestazionali, rispetto 
+    ai vincoli di progetto e agli indici di merito imposti. 
+
+        \begin{figure}[h!]
+            \phantomsection \label{fig:indici_di_merito}
+            \includegraphics[width=\textwidth]{indici.eps}
+            \caption{Fatigue Index vs Fracture Toughness Index}
+        \end{figure}
+
+        Come ultimo step, il plot di un indice in funzione dell'altro mette in risalto che \textit{MARM-432}
+        occupa mediamente il punto massimo, per cui é stato scelto come materiale finale di progetto, 
+        anche in virtú del fatto che si é deciso di dare prioritá alla resistenza a fatica piuttosto che 
+        alla fracture toughness, seppur con la consapevolezza che le due grandezze siano correlate.
+
+        É inoltre opportuno far presente che le densitá tra i tre materiali candidati sono assolutamente comparabili, 
+        in quanto tutti e tre appartenenti alla categoria delle leghe di Nickel, per cui in realtá si ha 
+        quasi un confronto diretto tra \textit{fatigue strength} e \textit{fracture toughness}, dato che in questo specifico 
+        scenario la densitá in sé non gioca un ruolo rilevante.
+
+        \clearpage
+
+    \subsection{Sviluppi futuri}
+
+    Sicuramente, nei prossimi anni, la manufattura additiva, grazie a tecnologie come l'\textit{EBM}, 
+    potrá affermarsi anche in situazioni in cui é richiesto un elevatissimo rateo produttivo. 
+
+    Come giá abbondantemente detto in sezione \ref{Casting}, presenta enormi vantaggi rispetto ad altri 
+    metodi tradizionali ed é insostituibile per determinate geometrie troppo complesse. \\
+    
+    Infatti, attualmente, la maggior parte delle aziende aerospaziali investono molto su questa tecnologia, 
+    in molti casi utilizzandola giá per produzioni quantitativamente notevoli, come 
+    nel caso di \textit{General Electric}, che affida all'azienda italiana \textit{Avio} la manufattura
+    in EBM di palette di turbina per il motore turbofan \textit{GE-90X} \autocite{GE90X_EBM}. \\
+
+    A tale tecnologia si prestano numerose leghe e la ricerca in merito a nuovi materiali ad alte prestazioni (non
+    solo metallici)
+    che possano sfruttarla al meglio é molto fiorente, come nel caso della superlega Co-Ni10, 
+    con cui sono stati ottenuti ottimi risultati, sperimentati anche su provini
+    dalla geometria di palette, sia in 
+    \textit{selective laser melting} che in \textit{electron beam melting}, per le quali
+    le tradizionali superleghe di Nickel tendono a manifestare cricche durante la
+    manufattura, dovute alla rapida precipitazione della fase $\gamma^{'}$ \autocite{Co_Ni_EBM}. \\ 
+
+    Si prevede, in conclusione, che la manufattura additiva diventerá lo standard nella produzione di palette
+    di turbina, cosí come di una miriade di 
+    altre componenti del settore aerospaziale (e non solo) e che i database di materiali come \textit{Granta} verranno conseguentemente aggiornati per 
+    meglio includerla ed integrarla nel proprio workflow. 
+
+    
 
     \clearpage
 

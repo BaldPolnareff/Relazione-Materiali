@@ -19,6 +19,29 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{phase_diagram_generic}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=4ae30993c63222838fe8659ecf93a38d}{%
+           family={(Dr.\bibnamedelimi Báder\bibnamedelima Im)},
+           familyi={(\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim I\bibinitperiod},
+           given={Michbich;},
+           giveni={M\bibinitperiod},
+           prefix={derivative\bibnamedelima work},
+           prefixi={d\bibinitperiod\bibinitdelim w\bibinitperiod}}}%
+      }
+      \strng{namehash}{4ae30993c63222838fe8659ecf93a38d}
+      \strng{fullhash}{4ae30993c63222838fe8659ecf93a38d}
+      \strng{bibnamehash}{4ae30993c63222838fe8659ecf93a38d}
+      \strng{authorbibnamehash}{4ae30993c63222838fe8659ecf93a38d}
+      \strng{authornamehash}{4ae30993c63222838fe8659ecf93a38d}
+      \strng{authorfullhash}{4ae30993c63222838fe8659ecf93a38d}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://commons.wikimedia.org/w/index.php?curid=8394880}}
+      \field{title}{Binary system phase diagram}
+    \endentry
     \entry{Co_Ni_EBM}{article}{}
       \name{author}{1}{}{%
         {{hash=bd44ebcad90be9af4a8d7ec146e598ce}{%
@@ -63,6 +86,28 @@
       \field{labeltitlesource}{title}
       \field{isbn}{978-92-9229-827-2}
       \field{title}{Aircraft Decommissioning Workshop (BIPAD) 1st Edition}
+      \field{year}{2018}
+    \endentry
+    \entry{GE90X_EBM}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=526ca6120c76d5390aa0d3339cf4a4f9}{%
+           family={Aviation)},
+           familyi={A\bibinitperiod},
+           given={Tomas\bibnamedelimb Kellner\bibnamedelimb (General\bibnamedelima Electric},
+           giveni={T\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim (\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{526ca6120c76d5390aa0d3339cf4a4f9}
+      \strng{fullhash}{526ca6120c76d5390aa0d3339cf4a4f9}
+      \strng{bibnamehash}{526ca6120c76d5390aa0d3339cf4a4f9}
+      \strng{authorbibnamehash}{526ca6120c76d5390aa0d3339cf4a4f9}
+      \strng{authornamehash}{526ca6120c76d5390aa0d3339cf4a4f9}
+      \strng{authorfullhash}{526ca6120c76d5390aa0d3339cf4a4f9}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.ge.com/news/reports/future-manufacturing-take-look-inside-factory-3d-printing-jet-engine-parts}}
+      \field{title}{The Blade Runners: This Factory Is 3D Printing Turbine Parts For The World's Largest Jet Engine}
       \field{year}{2018}
     \endentry
     \entry{Octave}{misc}{}
@@ -233,18 +278,18 @@
     \endentry
     \entry{Relazione_materiali}{misc}{}
       \name{author}{1}{}{%
-        {{hash=a0509674ff2cf6f9f3cb4105ec3be516}{%
+        {{hash=3f7f4120ec48ed81b0a5f6ed1fe0b450}{%
            family={Roberto},
            familyi={R\bibinitperiod},
-           given={De\bibnamedelima Trane\bibnamedelimb Giorgio;\bibnamedelimb Gonzales\bibnamedelimb Anthony\bibnamedelimb Steven\bibnamedelimb Luna;\bibnamedelimb Barbero\bibnamedelimb Giulia;\bibnamedelima Giusto},
-           giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+           given={De\bibnamedelima Trane\bibnamedelimb Giorgio;\bibnamedelimb Anthony\bibnamedelimb Stheven\bibnamedelimb Gonzales\bibnamedelimb Luna;\bibnamedelimb Barbero\bibnamedelimb Giulia;\bibnamedelima Giusto},
+           giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
       }
-      \strng{namehash}{a0509674ff2cf6f9f3cb4105ec3be516}
-      \strng{fullhash}{a0509674ff2cf6f9f3cb4105ec3be516}
-      \strng{bibnamehash}{a0509674ff2cf6f9f3cb4105ec3be516}
-      \strng{authorbibnamehash}{a0509674ff2cf6f9f3cb4105ec3be516}
-      \strng{authornamehash}{a0509674ff2cf6f9f3cb4105ec3be516}
-      \strng{authorfullhash}{a0509674ff2cf6f9f3cb4105ec3be516}
+      \strng{namehash}{3f7f4120ec48ed81b0a5f6ed1fe0b450}
+      \strng{fullhash}{3f7f4120ec48ed81b0a5f6ed1fe0b450}
+      \strng{bibnamehash}{3f7f4120ec48ed81b0a5f6ed1fe0b450}
+      \strng{authorbibnamehash}{3f7f4120ec48ed81b0a5f6ed1fe0b450}
+      \strng{authornamehash}{3f7f4120ec48ed81b0a5f6ed1fe0b450}
+      \strng{authorfullhash}{3f7f4120ec48ed81b0a5f6ed1fe0b450}
       \field{sortinit}{R}
       \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
       \field{labelnamesource}{author}

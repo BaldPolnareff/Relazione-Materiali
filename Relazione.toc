@@ -7,11 +7,12 @@
 \contentsline {subsection}{\numberline {4.1}Solidificazione}{11}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}Struttura}{12}{subsection.4.2}%
 \contentsline {subsubsection}{\numberline {4.2.1}Zone fredde, colonnari e centrali}{12}{subsubsection.4.2.1}%
-\contentsline {subsubsection}{\numberline {4.2.2}Affinamento dei grani}{13}{subsubsection.4.2.2}%
 \contentsline {subsection}{\numberline {4.3}Difetti}{14}{subsection.4.3}%
-\contentsline {subsubsection}{\numberline {4.3.1}Porositá e ritiro}{15}{subsubsection.4.3.1}%
-\contentsline {subsubsection}{\numberline {4.3.2}Inclusioni}{16}{subsubsection.4.3.2}%
-\contentsline {subsubsection}{\numberline {4.3.3}Segregazione degli elementi di lega}{17}{subsubsection.4.3.3}%
-\contentsline {subsection}{\numberline {4.4}Microfusione}{18}{subsection.4.4}%
-\contentsline {section}{\numberline {5}Indici di merito}{19}{section.5}%
-\contentsline {section}{\numberline {6}Conclusioni}{22}{section.6}%
+\contentsline {subsubsection}{\numberline {4.3.1}Porositá e ritiro}{14}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2}Inclusioni}{14}{subsubsection.4.3.2}%
+\contentsline {subsubsection}{\numberline {4.3.3}Segregazione degli elementi di lega}{15}{subsubsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.4}Investment casting}{16}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Indici di merito}{17}{section.5}%
+\contentsline {section}{\numberline {6}Conclusioni}{20}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Scelta finale }{20}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Sviluppi futuri}{21}{subsection.6.2}%
