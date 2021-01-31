@@ -113,7 +113,7 @@
     tramite indici di merito.
 
     La \textit{fracture toughness} é un parametro estremamente importante, in quanto consente di valutare in maniera quantitativa
-    la resistenza alla di propagazione di una cricca. 
+    la resistenza alla propagazione di una cricca. 
     
     Nel caso in cui una cricca dovesse verificarsi e superare una certa dimensione critica, una corretta valutazione
     di questo requisito ne impedisce la propagazione repentina, col rischio di failure incontenibile.
@@ -122,12 +122,12 @@
     spesso di magnitudine decisamente inferiore alla \textit{ultimate tensile strength} del materiale, per cui un'elevata
     resistenza a fatica é di vitale importanza per componenti soggetti a vibrazioni e sollecitazioni cicliche prolungate.
 
-    Dato che giá preeliminarmente il database ha scartato materiali non appartenenti alla famiglia delle leghe, é stato imposto
+    Dato che giá preliminarmente il database ha scartato materiali non appartenenti alla famiglia delle leghe, é stato imposto
     un ulteriore vincolo sul processo produttivo. Si é optato per l'\textit{investment casting} piuttosto che per 
     l'\textit{additive manufacturing} (approfondimento in sezione \ref{Casting}), per favorire un rateo di produzione molto elevato, che possa col tempo ammortizzare
     gli enormi investimenti iniziali che questa scelta comporta.
 
-    Seppur non al livello dell'AM, questo processo produttivo comporta un ridotto spreco di materiale
+    Seppur non al livello dell'AM, questo processo produttivo porta a un ridotto spreco di materiale
     rispetto ad altre tecniche sottrattive. 
 
     Oltre a rappresentare un potenziale risparmio economico, la riduzione di materiale sprecato é un obiettivo
@@ -180,12 +180,13 @@
     In commercio sono disponibili una moltitudine di superleghe, tra cui quelle basate 
     sul Nickel, sul Titanio, sul Cobalto e molte altre.
     Viste le elevatissime temperature di esercizio delle palette di turbina HP, le
-    uniche superleghe, con cui al momento sono prodotte, sono proprio quelle a base di Nickel. 
+    uniche superleghe con cui al momento sono prodotte, sono proprio quelle a base di Nickel
+    e, piú recentemente, anche Cobalto. 
     
     \begin{figure}[h!]
         \centering
         \phantomsection \label{turbofan_drawing}
-        \includegraphics[width=0.95 \textwidth]{Sources/engine_drawing.eps}
+        \includegraphics[width=0.9 \textwidth]{Sources/engine_drawing.eps}
         \caption{Materiali tipici in un motore turbofan \autocite{Inkscape}}
     \end{figure}
 
@@ -237,7 +238,7 @@
             \label{tab:funz_alliganti}
             \end{table}
         
-        Nello specifico, le tre superleghe estrapolate dal database, sono le seguenti:
+        Nello specifico, le tre superleghe estrapolate dal database sono le seguenti:
         \textit{MAR-M 432, IN-162 e MAR-M 421}.
 
         Ulteriori criteri di selezione progettuale sono applicati in sezione \ref{material_index}.
@@ -341,7 +342,7 @@
 
         Nel caso di un materiale puro (o molto vicino a tale condizione), nuclei identici, soggetti 
         ad un moto relativo sempre piú lento col decrescere della temperatura,
-        cominciano a solidificare e a formare agglomerati cristallini di dimensione man mano crescente.
+        cominciano a solidificare e a formare agglomerati policristallini di dimensione man mano crescente.
 
         Finché questi raggruppamenti di particelle solide non raggiungono una \
         \textit{dimensione critica}, in assenza di perturbazioni e di impuritá, i nuclei possono 
@@ -595,14 +596,14 @@
         
         Tali indici, definiti ad hoc in base alle necessitá del progettista, consentono di effettuare rapidamente un’indagine comparativa tra una lista di potenziali candidati che hanno superato una fase di preselezione, nel caso in cui la scelta del materiale non sia particolarmente ovvia o scontata. 
         \\ \\
-        Nel caso specifico della paletta di uno stadio di turbina ad alta pressione, come giá visto in precedenza, sorgono diverse sfide con requisiti estremi da soddisfare simultaneamente.
+        Nel caso specifico della paletta di uno stadio di turbina ad alta pressione, come piú volte ribadito, sorgono diverse sfide con requisiti estremi da soddisfare simultaneamente.
 
         Possono quindi tornare molto utili alcuni indici di merito, dato che devono essere garantiti una elevata temperatura di esercizio, un basso coefficiente di espansione termica, un’alta fracture toughness, un’alta resistenza a fatica, un elevato modulo elastico, un’alta frequenza naturale di risonanza, oltre che un’ottima resistenza all’aggressivitá chimica dell’ambiente operativo. 
         
         Tutti i possibili indici di merito di un materiale sono spesso definiti in funzione della densitá, specialmente in campo aerospaziale, in cui l’ottimizzazione del peso di ogni componente risulta fondamentale, tra le svariate motivazioni, per massimizzare l’efficienza propulsiva, riducendo quindi la spesa sul carburante, che ha un impatto sostanziale sui costi complessivi di un velivolo e sulla sostenibilitá \autocite{EASA_environ_report_2019}.
         \\ \\ 
         In seguito alla promettente fase di preselezione sul database,
-        superata da cinque materiali candidati, si é deciso di concentrarsi sugli indici relativi alla \textit{fracture toughness} e alla \textit{resist fatigue},
+        superata da tre materiali candidati, si é deciso di concentrarsi sugli indici relativi alla \textit{fracture toughness} e alla \textit{resist fatigue},
         per le quali i materiali preselezionati non mostrano evidenti compromessi ottimali.
 
         \begin{figure}[h!]
