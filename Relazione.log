@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2020.10.25)  31 JAN 2021 19:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2020.10.25)  4 FEB 2021 18:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -952,10 +952,44 @@ Underfull \hbox (badness 10000) in paragraph at lines 681--684
 
  []
 
+Package epstopdf Info: Source file: <retta_frac.eps>
+(epstopdf)                    date: 2021-02-04 18:55:01
+(epstopdf)                    size: 347944 bytes
+(epstopdf)             Output file: <retta_frac-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-02-04 18:59:56
+(epstopdf)                    size: 121218 bytes
+(epstopdf)             Command: <repstopdf --outfile=retta_frac-eps-converted-to.pdf retta_frac.eps>
+(epstopdf)             \includegraphics on input line 714.
+Package epstopdf Info: Output file is already uptodate.
+<retta_frac-eps-converted-to.pdf, id=288, 809.0225pt x 478.78876pt>
+File: retta_frac-eps-converted-to.pdf Graphic file (type pdf)
+<use retta_frac-eps-converted-to.pdf>
+Package pdftex.def Info: retta_frac-eps-converted-to.pdf  used on input line 714.
+(pdftex.def)             Requested size: 345.0pt x 204.17291pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package epstopdf Info: Source file: <retta_fatigue.eps>
+(epstopdf)                    date: 2021-02-04 18:52:34
+(epstopdf)                    size: 317283 bytes
+(epstopdf)             Output file: <retta_fatigue-eps-converted-to.pdf>
+(epstopdf)                    date: 2021-02-04 18:59:56
+(epstopdf)                    size: 127209 bytes
+(epstopdf)             Command: <repstopdf --outfile=retta_fatigue-eps-converted-to.pdf retta_fatigue.eps>
+(epstopdf)             \includegraphics on input line 720.
+Package epstopdf Info: Output file is already uptodate.
+<retta_fatigue-eps-converted-to.pdf, id=289, 808.01875pt x 477.785pt>
+File: retta_fatigue-eps-converted-to.pdf Graphic file (type pdf)
+<use retta_fatigue-eps-converted-to.pdf>
+Package pdftex.def Info: retta_fatigue-eps-converted-to.pdf  used on input line 720.
+(pdftex.def)             Requested size: 345.0pt x 204.00005pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 [19
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 723--726
+] [20 </home/giorgio/Relazione-Materiali/retta_frac-eps-converted-to.pdf> </home/giorgio/Relazione-Materiali/retta_fatigue-eps-converted-to.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 735--738
 
  []
 
@@ -966,55 +1000,77 @@ Package epstopdf Info: Source file: <indici.eps>
 (epstopdf)                    date: 2021-01-30 20:32:01
 (epstopdf)                    size: 346363 bytes
 (epstopdf)             Command: <repstopdf --outfile=indici-eps-converted-to.pdf indici.eps>
-(epstopdf)             \includegraphics on input line 732.
+(epstopdf)             \includegraphics on input line 744.
 Package epstopdf Info: Output file is already uptodate.
-<indici-eps-converted-to.pdf, id=306, 838.13126pt x 444.66125pt>
+<indici-eps-converted-to.pdf, id=320, 838.13126pt x 444.66125pt>
 File: indici-eps-converted-to.pdf Graphic file (type pdf)
 <use indici-eps-converted-to.pdf>
-Package pdftex.def Info: indici-eps-converted-to.pdf  used on input line 732.
+Package pdftex.def Info: indici-eps-converted-to.pdf  used on input line 744.
 (pdftex.def)             Requested size: 345.0pt x 183.0315pt.
-[20
 
- </home/giorgio/Relazione-Materiali/indici-eps-converted-to.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 753--755
-
- []
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 756--760
-
- []
+LaTeX Warning: Command \textdegree invalid in math mode on input line 798.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 761--769
+LaTeX Warning: Command \textdegree invalid in math mode on input line 798.
 
- []
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 798.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 798.
+
+Missing character: There is no ° in font cmr10!
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 798.
+
+
+LaTeX Warning: Command \textdegree invalid in math mode on input line 798.
+
+Missing character: There is no ° in font cmr7!
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [21
 
+ </home/giorgio/Relazione-Materiali/indici-eps-converted-to.pdf>] [22]
+Underfull \hbox (badness 10000) in paragraph at lines 810--812
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 813--817
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 818--826
+
+ []
+
+[23
+
 ]
-Overfull \hbox (5.7151pt too wide) in paragraph at lines 780--780
+Overfull \hbox (5.7151pt too wide) in paragraph at lines 837--837
 []\OT1/cmr/m/n/10 Ikpe Aniekan Essienubong; Owunna Ikechukwu; Patrick O. Ebunilo; Emem-
  []
 
 
-Overfull \hbox (3.15283pt too wide) in paragraph at lines 780--780
-[]\OT1/cmr/m/n/10 De Trane Gior-gio; An-thony Stheven Gon-za-les Luna; Bar-bero Giu-lia; Giusto
- []
-
-
-Overfull \hbox (7.28903pt too wide) in paragraph at lines 780--780
+Overfull \hbox (7.28903pt too wide) in paragraph at lines 837--837
 []\OT1/cmr/m/n/10 Stahlkocher. \OT1/cmr/m/it/10 Tur-bine Blade\OT1/cmr/m/n/10 . [][]$\OT1/cmtt/m/n/10 https : / / upload . wikimedia . org / wikipedia /
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 781.
-[22
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 838.
+[24
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 781.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 838.
  (/home/giorgio/Relazione-Materiali/Relazione.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 781.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 781.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 838.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 838.
 Package rerunfilecheck Info: File `Relazione.out' has not changed.
 (rerunfilecheck)             Checksum: 28144978A27D9676C1AC9325D63A59F3;1140.
 
@@ -1026,18 +1082,18 @@ Package logreq Info: Writing requests to 'Relazione.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 16655 strings out of 480906
- 322222 string characters out of 5910771
- 954940 words of memory out of 5000000
- 31930 multiletter control sequences out of 15000+600000
+ 16679 strings out of 480906
+ 322790 string characters out of 5910771
+ 956123 words of memory out of 5000000
+ 31944 multiletter control sequences out of 15000+600000
  545559 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,18n,51p,853b,1787s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on /home/giorgio/Relazione-Materiali/Relazione.pdf (22 pages, 3830685 bytes).
+Output written on /home/giorgio/Relazione-Materiali/Relazione.pdf (24 pages, 4082401 bytes).
 PDF statistics:
- 424 PDF objects out of 1000 (max. 8388607)
- 353 compressed objects within 4 object streams
- 91 named destinations out of 1000 (max. 500000)
- 192 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 445 PDF objects out of 1000 (max. 8388607)
+ 368 compressed objects within 4 object streams
+ 99 named destinations out of 1000 (max. 500000)
+ 202 words of extra memory for PDF output out of 10000 (max. 10000000)
 

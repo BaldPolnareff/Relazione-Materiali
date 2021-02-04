@@ -19,7 +19,7 @@
     bookmarks=true,
 }
 
-\author{Giorgio De Trane, \\Anthony Steven Luna Gonzales, \\Giulia Barbero, \\Roberto Giusto}
+\author{Giorgio De Trane, \\Anthony S. Luna Gonzales, \\Giulia Barbero, \\Roberto Giusto}
 \title{\textbf{Turbina ad alta temperatura}}
 
 \begin{document}
@@ -96,7 +96,7 @@
         \textbf{Funzioni} &
           Produzione di palette per stadi di turbina HP \\ \midrule
         \textbf{Obiettivi} &
-          \begin{tabular}[c]{@{}c@{}}Resistenza prolungata ad elevatissime temperature di esercizio\\ Ottima resistenza a frattura\\ Ottima resistenza a fatica\\ Ottima resistenza all'aggressivitá chimica ad alta temperatura\\ Produzione di massa\\ Sostenibilitá ambientale\end{tabular} \\ \midrule
+          \begin{tabular}[c]{@{}c@{}}Ottima resistenza a frattura\\ Ottima resistenza a fatica\end{tabular} \\ \midrule
         \textbf{Vincoli} &
           \begin{tabular}[c]{@{}c@{}}$ T_{max} \ \approx 1100 \  _{}^{\circ}\textrm{C}$ \\ $ K_{1c} > 30 \ MPa \cdot m^{0.5}$ \\ $ \sigma_e > 360 \  MPa$ \\ Resistenza all'ossidazione: ottima\\ Processo produttivo: investment casting\\ Percentuale di materiale riciclabile: fino al 30\%\end{tabular} \\ \bottomrule
         \end{tabular}
@@ -709,6 +709,18 @@
         D'altro canto, si evince anche che la lega \textit{IN162} ha una migliore fracture toughness a paritá di peso. 
 
         
+            \begin{figure}[h!]
+                \phantomsection \label{fig:indici_retta_frac}
+                \includegraphics[width=\textwidth]{retta_frac.eps}
+                \caption{Indice di merito rappresentato dalla pendenza della retta}
+            \end{figure}
+
+            \begin{figure}[h!]
+                \phantomsection \label{fig:indici_retta_fatigue}
+                \includegraphics[width=\textwidth]{retta_fatigue.eps}
+                \caption{Indice di merito rappresentato dalla pendenza della retta}
+            \end{figure}
+
         \clearpage
 
 
@@ -742,6 +754,51 @@
         in quanto tutti e tre appartenenti alla categoria delle leghe di Nickel, per cui in realtá si ha 
         quasi un confronto diretto tra \textit{fatigue strength} e \textit{fracture toughness}, dato che in questo specifico 
         scenario la densitá in sé non gioca un ruolo rilevante.
+
+        
+
+    
+        \begin{table}[h!]
+            \centering
+            \begin{tabular}{@{}cc@{}}
+            \toprule
+            \multicolumn{2}{c}{\textbf{Nickel-Co-Cr alloy, MAR-M 432, as cast}} \\ \midrule
+            Al (aluminum)                       & 2.8 \%                         \\
+            B (boron)                           & 0.015 \%                       \\
+            Co (cobalt)                         & 20 \%                          \\
+            Cr (chromium)                       & 15.5 \%                        \\
+            Nb (niobium)                        & 2 \%                           \\
+            \textit{\textbf{Ni (nickel)}}       & \textit{\textbf{50.3 \%}}      \\
+            Ta (tantalum)                       & 2 \%                           \\
+            Ti (titanium)                       & 4.3 \%                         \\
+            W (tungsten)                        & 3 \%                           \\ \bottomrule
+            \end{tabular}
+            \caption{Composizione di MAR-M 432}
+            \label{tab:marm_composition}
+            \end{table}
+
+
+        \begin{table}[h!]
+            \centering
+            \resizebox{\textwidth}{!}{
+            \begin{tabular}{@{}cc@{}}
+            \toprule
+            \multicolumn{2}{c}{\textbf{Properties}}                                             \\ \midrule
+            Density                                   & $8.05e3 \  -  \ 8.25e3       \ \ \ \ \ \ [\frac{kg}{m^3}         ]  $ \\
+            Young's modulus                           & $195    \ -   \  210         \ \ \ \ \ \ [ GPa                   ]  $ \\
+            Yield strength (elastic limit)            & $960    \ -   \  1,18e3      \ \ \ \ \ \ [ MPa                   ]  $ \\
+            Tensile strength                          & $1,12e3 \    -\     1,37e3   \ \ \ \ \ \ [ MPa                   ]  $ \\
+            Fatigue strength at $10^7$ cycles         & $445    \ -   \  685         \ \ \ \ \ \ [ MPa                   ]  $ \\
+            Fracture toughness                        & $35,9   \  -  \   39,8       \ \ \ \ \ \ [ MPa \ m^{0.5}         ]  $ \\
+            Melting point                             & $1,2e3  \   - \    1,38e3    \ \ \ \ \ \ [ °C                    ]  $ \\
+            Maximum service temperature               & $797    \ -   \  1,1e3       \ \ \ \ \ \ [ °C                    ]  $ \\
+            Thermal expansion coefficient             & $11     \-    \ 14           \ \ \ \ \ \ [ \frac{\mu strain}{°C} ]  $ \\
+            Recycle fraction in current supply (2018) & $28,9   \  -  \   31,9       \ \ \ \ \ \ [ \%                    ]  $ \\ \bottomrule
+            \end{tabular}
+            }
+            \caption{Proprietá di rilievo di MAR-M 432}
+            \label{tab:marm_properties}
+            \end{table}
 
         \clearpage
 

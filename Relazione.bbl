@@ -278,18 +278,18 @@
     \endentry
     \entry{Relazione_materiali}{misc}{}
       \name{author}{1}{}{%
-        {{hash=3f7f4120ec48ed81b0a5f6ed1fe0b450}{%
+        {{hash=f7c11742bc41c11ca5296177367aa244}{%
            family={Roberto},
            familyi={R\bibinitperiod},
-           given={De\bibnamedelima Trane\bibnamedelimb Giorgio;\bibnamedelimb Anthony\bibnamedelimb Stheven\bibnamedelimb Gonzales\bibnamedelimb Luna;\bibnamedelimb Barbero\bibnamedelimb Giulia;\bibnamedelima Giusto},
-           giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+           given={De\bibnamedelima Trane\bibnamedelimb Giorgio;\bibnamedelimb Luna\bibnamedelimb Gonzales\bibnamedelimb Anthony\bibnamedelimb S.;\bibnamedelimb Barbero\bibnamedelimb Giulia;\bibnamedelima Giusto},
+           giveni={D\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
       }
-      \strng{namehash}{3f7f4120ec48ed81b0a5f6ed1fe0b450}
-      \strng{fullhash}{3f7f4120ec48ed81b0a5f6ed1fe0b450}
-      \strng{bibnamehash}{3f7f4120ec48ed81b0a5f6ed1fe0b450}
-      \strng{authorbibnamehash}{3f7f4120ec48ed81b0a5f6ed1fe0b450}
-      \strng{authornamehash}{3f7f4120ec48ed81b0a5f6ed1fe0b450}
-      \strng{authorfullhash}{3f7f4120ec48ed81b0a5f6ed1fe0b450}
+      \strng{namehash}{f7c11742bc41c11ca5296177367aa244}
+      \strng{fullhash}{f7c11742bc41c11ca5296177367aa244}
+      \strng{bibnamehash}{f7c11742bc41c11ca5296177367aa244}
+      \strng{authorbibnamehash}{f7c11742bc41c11ca5296177367aa244}
+      \strng{authornamehash}{f7c11742bc41c11ca5296177367aa244}
+      \strng{authorfullhash}{f7c11742bc41c11ca5296177367aa244}
       \field{sortinit}{R}
       \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
       \field{labelnamesource}{author}
